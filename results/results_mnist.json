@@ -1,0 +1,72 @@
+{
+  "ESN standard N=632 (=FLOPs)": {
+    "proto": "rho_sur_validation",
+    "mean": 0.6403333333333333,
+    "std": 0.004988876515698593,
+    "per_seed": [
+      0.639,
+      0.635,
+      0.647
+    ]
+  },
+  "ESN standard N=200 (=unit\u00e9s)": {
+    "proto": "rho_sur_validation",
+    "mean": 0.57,
+    "std": 0.007071067811865482,
+    "per_seed": [
+      0.565,
+      0.565,
+      0.58
+    ]
+  },
+  "Tenseur tau=1..10 N=200": {
+    "proto": "rho_sur_validation",
+    "mean": 0.823,
+    "std": 0.00509901951359279,
+    "per_seed": [
+      0.828,
+      0.816,
+      0.825
+    ]
+  },
+  "Tenseur log {1,2,4,8} N=200": {
+    "proto": "rho_sur_validation",
+    "mean": 0.8026666666666668,
+    "std": 0.0018856180831641283,
+    "per_seed": [
+      0.8,
+      0.804,
+      0.804
+    ]
+  },
+  "Tenseur tau=1 seul (contr\u00f4le)": {
+    "proto": "rho_sur_validation",
+    "mean": 0.57,
+    "std": 0.007071067811865482,
+    "per_seed": [
+      0.565,
+      0.565,
+      0.58
+    ]
+  },
+  "ESN standard N=632 (60k)": {
+    "proto": "rho_sur_validation",
+    "mean": 0.7279,
+    "std": 0.007335302765848635,
+    "per_seed": [
+      0.7249,
+      0.7208,
+      0.738
+    ]
+  },
+  "Tenseur tau=1..10 N=200 (60k)": {
+    "proto": "rho_sur_validation",
+    "mean": 0.8734000000000001,
+    "std": 0.0013140268896284614,
+    "per_seed": [
+      0.8716,
+      0.8739,
+      0.8747
+    ]
+  }
+}

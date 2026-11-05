@@ -1,0 +1,912 @@
+{
+  "parite_D10": {
+    "std632": {
+      "name": "ESN standard N=632 (=FLOPs)",
+      "proto": "rho_sur_validation",
+      "mean": 1.061205343885354,
+      "std": 0.007618307872056757,
+      "per_seed": [
+        1.0717972408733374,
+        1.0576172334683238,
+        1.0542015573144001
+      ],
+      "metric": "nrmse"
+    },
+    "std200": {
+      "name": "ESN standard N=200 (=unités)",
+      "proto": "rho_sur_validation",
+      "mean": 1.029587201933689,
+      "std": 0.008695598832680139,
+      "per_seed": [
+        1.0415444666087845,
+        1.0260961436564748,
+        1.0211209955358074
+      ],
+      "metric": "nrmse"
+    },
+    "tau10": {
+      "name": "Tenseur tau=1..10 N=200",
+      "proto": "rho_sur_validation",
+      "mean": 1.0328655678521497,
+      "std": 0.003024961960176712,
+      "per_seed": [
+        1.0370383709400062,
+        1.0299628464669488,
+        1.0315954861494938
+      ],
+      "metric": "nrmse"
+    },
+    "log1248": {
+      "name": "Tenseur log {1,2,4,8} N=200",
+      "proto": "rho_sur_validation",
+      "mean": 1.0314952140805778,
+      "std": 0.002415882501271322,
+      "per_seed": [
+        1.0347885467606954,
+        1.0306360769675795,
+        1.029061018513458
+      ],
+      "metric": "nrmse"
+    },
+    "tau1": {
+      "name": "Tenseur tau=1 seul (contrôle)",
+      "proto": "rho_sur_validation",
+      "mean": 1.029587201933689,
+      "std": 0.008695598832680139,
+      "per_seed": [
+        1.0415444666087845,
+        1.0260961436564748,
+        1.0211209955358074
+      ],
+      "metric": "nrmse"
+    }
+  },
+  "parite_D20": {
+    "std632": {
+      "name": "ESN standard N=632 (=FLOPs)",
+      "proto": "rho_sur_validation",
+      "mean": 1.0592008593993665,
+      "std": 0.0016284119690227043,
+      "per_seed": [
+        1.057212945598803,
+        1.0591879710521388,
+        1.0612016615471573
+      ],
+      "metric": "nrmse"
+    },
+    "std200": {
+      "name": "ESN standard N=200 (=unités)",
+      "proto": "rho_sur_validation",
+      "mean": 1.032247229905239,
+      "std": 0.006570120513965358,
+      "per_seed": [
+        1.036665320847314,
+        1.0371170317748855,
+        1.0229593370935175
+      ],
+      "metric": "nrmse"
+    },
+    "tau10": {
+      "name": "Tenseur tau=1..10 N=200",
+      "proto": "rho_sur_validation",
+      "mean": 1.0352890113571964,
+      "std": 0.010414516423125386,
+      "per_seed": [
+        1.047914511529927,
+        1.035544425971309,
+        1.022408096570353
+      ],
+      "metric": "nrmse"
+    },
+    "log1248": {
+      "name": "Tenseur log {1,2,4,8} N=200",
+      "proto": "rho_sur_validation",
+      "mean": 1.0394563008012343,
+      "std": 0.012711496280048518,
+      "per_seed": [
+        1.057143632567918,
+        1.0333950669023226,
+        1.0278302029334625
+      ],
+      "metric": "nrmse"
+    },
+    "tau1": {
+      "name": "Tenseur tau=1 seul (contrôle)",
+      "proto": "rho_sur_validation",
+      "mean": 1.032247229905239,
+      "std": 0.006570120513965358,
+      "per_seed": [
+        1.036665320847314,
+        1.0371170317748855,
+        1.0229593370935175
+      ],
+      "metric": "nrmse"
+    }
+  },
+  "parite_D50": {
+    "std632": {
+      "name": "ESN standard N=632 (=FLOPs)",
+      "proto": "rho_sur_validation",
+      "mean": 1.062255403154773,
+      "std": 0.0049427371193194805,
+      "per_seed": [
+        1.0692219719165943,
+        1.0582759684829628,
+        1.059268269064762
+      ],
+      "metric": "nrmse"
+    },
+    "std200": {
+      "name": "ESN standard N=200 (=unités)",
+      "proto": "rho_sur_validation",
+      "mean": 1.0367301590018114,
+      "std": 0.005219909292909285,
+      "per_seed": [
+        1.0372756863671795,
+        1.0428329721133889,
+        1.0300818185248657
+      ],
+      "metric": "nrmse"
+    },
+    "tau10": {
+      "name": "Tenseur tau=1..10 N=200",
+      "proto": "rho_sur_validation",
+      "mean": 1.0287860819878567,
+      "std": 0.0042011137077956565,
+      "per_seed": [
+        1.034321850735036,
+        1.0241499142144432,
+        1.0278864810140906
+      ],
+      "metric": "nrmse"
+    },
+    "log1248": {
+      "name": "Tenseur log {1,2,4,8} N=200",
+      "proto": "rho_sur_validation",
+      "mean": 1.0363197882254258,
+      "std": 0.00028427686852419573,
+      "per_seed": [
+        1.0365862784606188,
+        1.0364472291697444,
+        1.0359258570459138
+      ],
+      "metric": "nrmse"
+    },
+    "tau1": {
+      "name": "Tenseur tau=1 seul (contrôle)",
+      "proto": "rho_sur_validation",
+      "mean": 1.0367301590018114,
+      "std": 0.005219909292909285,
+      "per_seed": [
+        1.0372756863671795,
+        1.0428329721133889,
+        1.0300818185248657
+      ],
+      "metric": "nrmse"
+    }
+  },
+  "santafe": {
+    "std632": {
+      "name": "ESN standard N=632 (=FLOPs)",
+      "proto": "rho_sur_validation",
+      "mean": 0.046641369614162105,
+      "std": 0.0024600785022549218,
+      "per_seed": [
+        0.048381441559131905,
+        0.04838037399698641,
+        0.043162293286367996
+      ],
+      "metric": "nrmse"
+    },
+    "std200": {
+      "name": "ESN standard N=200 (=unités)",
+      "proto": "rho_sur_validation",
+      "mean": 0.05149982230380775,
+      "std": 0.00204404076984188,
+      "per_seed": [
+        0.048759718547287424,
+        0.05207236082431703,
+        0.05366738753981879
+      ],
+      "metric": "nrmse"
+    },
+    "tau10": {
+      "name": "Tenseur tau=1..10 N=200",
+      "proto": "rho_sur_validation",
+      "mean": 0.05337345685480031,
+      "std": 0.013995594951194765,
+      "per_seed": [
+        0.07305831114285476,
+        0.04174360116663187,
+        0.04531845825491428
+      ],
+      "metric": "nrmse"
+    },
+    "log1248": {
+      "name": "Tenseur log {1,2,4,8} N=200",
+      "proto": "rho_sur_validation",
+      "mean": 0.03603765787875706,
+      "std": 0.0025805103503470568,
+      "per_seed": [
+        0.0333686683480169,
+        0.03521671262733892,
+        0.03952759266091536
+      ],
+      "metric": "nrmse"
+    },
+    "tau1": {
+      "name": "Tenseur tau=1 seul (contrôle)",
+      "proto": "rho_sur_validation",
+      "mean": 0.05149982230380775,
+      "std": 0.00204404076984188,
+      "per_seed": [
+        0.048759718547287424,
+        0.05207236082431703,
+        0.05366738753981879
+      ],
+      "metric": "nrmse"
+    }
+  },
+  "markov_dw20": {
+    "std632": {
+      "name": "ESN standard N=632 (=FLOPs)",
+      "proto": "rho_sur_validation",
+      "mean": 0.24710109730422702,
+      "std": 0.013231487215370014,
+      "per_seed": [
+        0.23090166817683963,
+        0.2470895694935483,
+        0.26331205424229315
+      ],
+      "metric": "nrmse"
+    },
+    "std200": {
+      "name": "ESN standard N=200 (=unités)",
+      "proto": "rho_sur_validation",
+      "mean": 0.20849659538776663,
+      "std": 0.013370646491034924,
+      "per_seed": [
+        0.18964277857779022,
+        0.21667391379830658,
+        0.21917309378720307
+      ],
+      "metric": "nrmse"
+    },
+    "tau10": {
+      "name": "Tenseur tau=1..10 N=200",
+      "proto": "rho_sur_validation",
+      "mean": 0.25514676087898464,
+      "std": 0.010308788834473205,
+      "per_seed": [
+        0.24109096644607078,
+        0.25882314008185564,
+        0.2655261761090274
+      ],
+      "metric": "nrmse"
+    },
+    "log1248": {
+      "name": "Tenseur log {1,2,4,8} N=200",
+      "proto": "rho_sur_validation",
+      "mean": 0.24485164875674237,
+      "std": 0.008479754614843845,
+      "per_seed": [
+        0.2354110778012735,
+        0.24316755506721818,
+        0.25597631340173543
+      ],
+      "metric": "nrmse"
+    },
+    "tau1": {
+      "name": "Tenseur tau=1 seul (contrôle)",
+      "proto": "rho_sur_validation",
+      "mean": 0.20849659538776663,
+      "std": 0.013370646491034924,
+      "per_seed": [
+        0.18964277857779022,
+        0.21667391379830658,
+        0.21917309378720307
+      ],
+      "metric": "nrmse"
+    }
+  },
+  "bruit_s0.01": {
+    "std632": {
+      "name": "ESN standard N=632 (=FLOPs)",
+      "mean": 0.7367672122379747,
+      "std": 0.02820861813446959,
+      "per_seed": [
+        0.7100406338396702,
+        0.7757792189669364,
+        0.7244817839073175
+      ],
+      "metric": "nrmse"
+    },
+    "std200": {
+      "name": "ESN standard N=200 (=unités)",
+      "mean": 0.7742227161787104,
+      "std": 0.002437867551160663,
+      "per_seed": [
+        0.7707769678223914,
+        0.775846036380573,
+        0.7760451443331668
+      ],
+      "metric": "nrmse"
+    },
+    "tau10": {
+      "name": "Tenseur tau=1..10 N=200",
+      "mean": 0.39088886051111826,
+      "std": 0.006512601630551189,
+      "per_seed": [
+        0.3832996857474872,
+        0.3992027719356072,
+        0.3901641238502605
+      ],
+      "metric": "nrmse"
+    },
+    "log1248": {
+      "name": "Tenseur log {1,2,4,8} N=200",
+      "mean": 0.39167224335137196,
+      "std": 0.005339931535507476,
+      "per_seed": [
+        0.38562003603053363,
+        0.3986099187055038,
+        0.3907867753180785
+      ],
+      "metric": "nrmse"
+    },
+    "tau1": {
+      "name": "Tenseur tau=1 seul (contrôle)",
+      "mean": 0.7742227161787104,
+      "std": 0.002437867551160663,
+      "per_seed": [
+        0.7707769678223914,
+        0.775846036380573,
+        0.7760451443331668
+      ],
+      "metric": "nrmse"
+    }
+  },
+  "bruit_s0.05": {
+    "std632": {
+      "name": "ESN standard N=632 (=FLOPs)",
+      "mean": 0.7974621963774533,
+      "std": 0.02557870535299485,
+      "per_seed": [
+        0.7666743337492521,
+        0.8293025828534801,
+        0.7964096725296279
+      ],
+      "metric": "nrmse"
+    },
+    "std200": {
+      "name": "ESN standard N=200 (=unités)",
+      "mean": 0.8031426858247759,
+      "std": 0.00526894068545646,
+      "per_seed": [
+        0.7957071359334941,
+        0.8064396849619602,
+        0.8072812365788733
+      ],
+      "metric": "nrmse"
+    },
+    "tau10": {
+      "name": "Tenseur tau=1..10 N=200",
+      "mean": 0.4949425120634689,
+      "std": 0.006258390176128573,
+      "per_seed": [
+        0.4879352199468662,
+        0.503128525502641,
+        0.4937637907408994
+      ],
+      "metric": "nrmse"
+    },
+    "log1248": {
+      "name": "Tenseur log {1,2,4,8} N=200",
+      "mean": 0.49633534989028566,
+      "std": 0.0067226799942237915,
+      "per_seed": [
+        0.4868823598362328,
+        0.5019406928766245,
+        0.500182996958
+      ],
+      "metric": "nrmse"
+    },
+    "tau1": {
+      "name": "Tenseur tau=1 seul (contrôle)",
+      "mean": 0.8031426858247759,
+      "std": 0.00526894068545646,
+      "per_seed": [
+        0.7957071359334941,
+        0.8064396849619602,
+        0.8072812365788733
+      ],
+      "metric": "nrmse"
+    }
+  },
+  "bruit_s0.1": {
+    "std632": {
+      "name": "ESN standard N=632 (=FLOPs)",
+      "mean": 0.9052072498729334,
+      "std": 0.015034986260341237,
+      "per_seed": [
+        0.8845998064275181,
+        0.9200470683490163,
+        0.910974874842266
+      ],
+      "metric": "nrmse"
+    },
+    "std200": {
+      "name": "ESN standard N=200 (=unités)",
+      "mean": 0.8665465092211218,
+      "std": 0.00565277858869117,
+      "per_seed": [
+        0.8589996956682706,
+        0.8680362648512417,
+        0.8726035671438532
+      ],
+      "metric": "nrmse"
+    },
+    "tau10": {
+      "name": "Tenseur tau=1..10 N=200",
+      "mean": 0.6659137899283561,
+      "std": 0.00634159269014841,
+      "per_seed": [
+        0.6581393258138687,
+        0.6736729695021638,
+        0.6659290744690359
+      ],
+      "metric": "nrmse"
+    },
+    "log1248": {
+      "name": "Tenseur log {1,2,4,8} N=200",
+      "mean": 0.6679897561611519,
+      "std": 0.009427332145660402,
+      "per_seed": [
+        0.6548775035379563,
+        0.6724569807431254,
+        0.676634784202374
+      ],
+      "metric": "nrmse"
+    },
+    "tau1": {
+      "name": "Tenseur tau=1 seul (contrôle)",
+      "mean": 0.8665465092211218,
+      "std": 0.00565277858869117,
+      "per_seed": [
+        0.8589996956682706,
+        0.8680362648512417,
+        0.8726035671438532
+      ],
+      "metric": "nrmse"
+    }
+  },
+  "bruit_s0.2": {
+    "std632": {
+      "name": "ESN standard N=632 (=FLOPs)",
+      "mean": 1.053123838189989,
+      "std": 0.007075452952772149,
+      "per_seed": [
+        1.0433364105407206,
+        1.0562154014276597,
+        1.0598197026015863
+      ],
+      "metric": "nrmse"
+    },
+    "std200": {
+      "name": "ESN standard N=200 (=unités)",
+      "mean": 0.9622910283590188,
+      "std": 0.005969654429904669,
+      "per_seed": [
+        0.9554835582010806,
+        0.9613705382408797,
+        0.9700189886350962
+      ],
+      "metric": "nrmse"
+    },
+    "tau10": {
+      "name": "Tenseur tau=1..10 N=200",
+      "mean": 0.8687949583017401,
+      "std": 0.0038128443557096576,
+      "per_seed": [
+        0.8634149685004152,
+        0.8711711771285389,
+        0.8717987292762667
+      ],
+      "metric": "nrmse"
+    },
+    "log1248": {
+      "name": "Tenseur log {1,2,4,8} N=200",
+      "mean": 0.8698105766425744,
+      "std": 0.0063457065850533335,
+      "per_seed": [
+        0.8608517073251414,
+        0.8738361572385692,
+        0.8747438653640132
+      ],
+      "metric": "nrmse"
+    },
+    "tau1": {
+      "name": "Tenseur tau=1 seul (contrôle)",
+      "mean": 0.9622910283590188,
+      "std": 0.005969654429904669,
+      "per_seed": [
+        0.9554835582010806,
+        0.9613705382408797,
+        0.9700189886350962
+      ],
+      "metric": "nrmse"
+    }
+  },
+  "mnist_lignes": {
+    "std632": {
+      "name": "ESN standard N=632 (=FLOPs)",
+      "proto": "rho_sur_validation",
+      "mean": 0.6403333333333333,
+      "std": 0.004988876515698593,
+      "per_seed": [
+        0.639,
+        0.635,
+        0.647
+      ],
+      "metric": "acc"
+    },
+    "std200": {
+      "name": "ESN standard N=200 (=unités)",
+      "proto": "rho_sur_validation",
+      "mean": 0.57,
+      "std": 0.007071067811865482,
+      "per_seed": [
+        0.565,
+        0.565,
+        0.58
+      ],
+      "metric": "acc"
+    },
+    "tau10": {
+      "name": "Tenseur tau=1..10 N=200",
+      "proto": "rho_sur_validation",
+      "mean": 0.8173333333333334,
+      "std": 0.0030912061651652374,
+      "per_seed": [
+        0.819,
+        0.82,
+        0.813
+      ],
+      "metric": "acc"
+    },
+    "log1248": {
+      "name": "Tenseur log {1,2,4,8} N=200",
+      "proto": "rho_sur_validation",
+      "mean": 0.8076666666666666,
+      "std": 0.006342099196813451,
+      "per_seed": [
+        0.799,
+        0.814,
+        0.81
+      ],
+      "metric": "acc"
+    },
+    "tau1": {
+      "name": "Tenseur tau=1 seul (contrôle)",
+      "proto": "rho_sur_validation",
+      "mean": 0.5526666666666668,
+      "std": 0.00736357401145818,
+      "per_seed": [
+        0.544,
+        0.562,
+        0.552
+      ],
+      "metric": "acc"
+    }
+  },
+  "mnist_colonnes": {
+    "std632": {
+      "name": "ESN standard N=632 (=FLOPs)",
+      "proto": "rho_sur_validation",
+      "mean": 0.7006666666666667,
+      "std": 0.0009428090415820641,
+      "per_seed": [
+        0.7,
+        0.7,
+        0.702
+      ],
+      "metric": "acc"
+    },
+    "std200": {
+      "name": "ESN standard N=200 (=unités)",
+      "proto": "rho_sur_validation",
+      "mean": 0.582,
+      "std": 0.011430952132988174,
+      "per_seed": [
+        0.568,
+        0.582,
+        0.596
+      ],
+      "metric": "acc"
+    },
+    "tau10": {
+      "name": "Tenseur tau=1..10 N=200",
+      "proto": "rho_sur_validation",
+      "mean": 0.823,
+      "std": 0.017378147196982743,
+      "per_seed": [
+        0.804,
+        0.819,
+        0.846
+      ],
+      "metric": "acc"
+    },
+    "log1248": {
+      "name": "Tenseur log {1,2,4,8} N=200",
+      "proto": "rho_sur_validation",
+      "mean": 0.8130000000000001,
+      "std": 0.008602325267042587,
+      "per_seed": [
+        0.803,
+        0.812,
+        0.824
+      ],
+      "metric": "acc"
+    },
+    "tau1": {
+      "name": "Tenseur tau=1 seul (contrôle)",
+      "proto": "rho_sur_validation",
+      "mean": 0.5846666666666667,
+      "std": 0.016977108770995755,
+      "per_seed": [
+        0.561,
+        0.6,
+        0.593
+      ],
+      "metric": "acc"
+    }
+  },
+  "mnist_spirale": {
+    "std632": {
+      "name": "ESN standard N=632 (=FLOPs)",
+      "proto": "rho_sur_validation",
+      "mean": 0.8316666666666667,
+      "std": 0.006182412330330475,
+      "per_seed": [
+        0.835,
+        0.823,
+        0.837
+      ],
+      "metric": "acc"
+    },
+    "std200": {
+      "name": "ESN standard N=200 (=unités)",
+      "proto": "rho_sur_validation",
+      "mean": 0.7586666666666666,
+      "std": 0.003299831645537225,
+      "per_seed": [
+        0.763,
+        0.758,
+        0.755
+      ],
+      "metric": "acc"
+    },
+    "tau10": {
+      "name": "Tenseur tau=1..10 N=200",
+      "proto": "rho_sur_validation",
+      "mean": 0.8233333333333333,
+      "std": 0.004189935029992182,
+      "per_seed": [
+        0.819,
+        0.829,
+        0.822
+      ],
+      "metric": "acc"
+    },
+    "log1248": {
+      "name": "Tenseur log {1,2,4,8} N=200",
+      "proto": "rho_sur_validation",
+      "mean": 0.8193333333333332,
+      "std": 0.004784233364802446,
+      "per_seed": [
+        0.817,
+        0.826,
+        0.815
+      ],
+      "metric": "acc"
+    },
+    "tau1": {
+      "name": "Tenseur tau=1 seul (contrôle)",
+      "proto": "rho_sur_validation",
+      "mean": 0.7433333333333333,
+      "std": 0.01347425528760517,
+      "per_seed": [
+        0.76,
+        0.727,
+        0.743
+      ],
+      "metric": "acc"
+    }
+  },
+  "parite2_D10": {
+    "std632": {
+      "name": "ESN standard N=632 (=FLOPs)",
+      "proto": "rho_sur_validation",
+      "mean": 0.20374855206478568,
+      "std": 0.016104744170787437,
+      "per_seed": [
+        0.199174982188313,
+        0.22535775975868425,
+        0.18671291424735975
+      ],
+      "metric": "nrmse"
+    },
+    "std200": {
+      "name": "ESN standard N=200 (=unités)",
+      "proto": "rho_sur_validation",
+      "mean": 0.7085287120415106,
+      "std": 0.0447987110275749,
+      "per_seed": [
+        0.7511109093799261,
+        0.6466118319401578,
+        0.727863394804448
+      ],
+      "metric": "nrmse"
+    },
+    "tau10": {
+      "name": "Tenseur tau=1..10 N=200",
+      "proto": "rho_sur_validation",
+      "mean": 0.6121994804408902,
+      "std": 0.04093039435535341,
+      "per_seed": [
+        0.6307398770228383,
+        0.6504175548502912,
+        0.5554410094495411
+      ],
+      "metric": "nrmse"
+    },
+    "log1248": {
+      "name": "Tenseur log {1,2,4,8} N=200",
+      "proto": "rho_sur_validation",
+      "mean": 0.5126511375468995,
+      "std": 0.06510022738445985,
+      "per_seed": [
+        0.5934864333524598,
+        0.5103949967197478,
+        0.4340719825684909
+      ],
+      "metric": "nrmse"
+    },
+    "tau1": {
+      "name": "Tenseur tau=1 seul (contrôle)",
+      "proto": "rho_sur_validation",
+      "mean": 0.7085287120415106,
+      "std": 0.0447987110275749,
+      "per_seed": [
+        0.7511109093799261,
+        0.6466118319401578,
+        0.727863394804448
+      ],
+      "metric": "nrmse"
+    }
+  },
+  "parite2_D20": {
+    "std632": {
+      "name": "ESN standard N=632 (=FLOPs)",
+      "proto": "rho_sur_validation",
+      "mean": 1.064998590792494,
+      "std": 0.005365640290415899,
+      "per_seed": [
+        1.0576519275099259,
+        1.0703166253092624,
+        1.0670272195582933
+      ],
+      "metric": "nrmse"
+    },
+    "std200": {
+      "name": "ESN standard N=200 (=unités)",
+      "proto": "rho_sur_validation",
+      "mean": 1.0339238609618775,
+      "std": 0.005756746632415403,
+      "per_seed": [
+        1.0344590719964761,
+        1.0406915492938835,
+        1.026620961595273
+      ],
+      "metric": "nrmse"
+    },
+    "tau10": {
+      "name": "Tenseur tau=1..10 N=200",
+      "proto": "rho_sur_validation",
+      "mean": 0.9608423971029955,
+      "std": 0.014540485376532755,
+      "per_seed": [
+        0.9676614372559927,
+        0.974233594005888,
+        0.9406321600471057
+      ],
+      "metric": "nrmse"
+    },
+    "log1248": {
+      "name": "Tenseur log {1,2,4,8} N=200",
+      "proto": "rho_sur_validation",
+      "mean": 0.9362356046156562,
+      "std": 0.02356803184116766,
+      "per_seed": [
+        0.9391245743822032,
+        0.9635473117188998,
+        0.9060349277458659
+      ],
+      "metric": "nrmse"
+    },
+    "tau1": {
+      "name": "Tenseur tau=1 seul (contrôle)",
+      "proto": "rho_sur_validation",
+      "mean": 1.0339238609618775,
+      "std": 0.005756746632415403,
+      "per_seed": [
+        1.0344590719964761,
+        1.0406915492938835,
+        1.026620961595273
+      ],
+      "metric": "nrmse"
+    }
+  },
+  "parite2_D50": {
+    "std632": {
+      "name": "ESN standard N=632 (=FLOPs)",
+      "proto": "rho_sur_validation",
+      "mean": 1.059374144883324,
+      "std": 0.0012453131151580767,
+      "per_seed": [
+        1.0602250734318055,
+        1.0576133351158827,
+        1.0602840261022843
+      ],
+      "metric": "nrmse"
+    },
+    "std200": {
+      "name": "ESN standard N=200 (=unités)",
+      "proto": "rho_sur_validation",
+      "mean": 1.035755214319961,
+      "std": 0.007641814526115016,
+      "per_seed": [
+        1.0401413023570583,
+        1.0421159804276336,
+        1.0250083601751918
+      ],
+      "metric": "nrmse"
+    },
+    "tau10": {
+      "name": "Tenseur tau=1..10 N=200",
+      "proto": "rho_sur_validation",
+      "mean": 1.031354078172848,
+      "std": 0.003885679820269678,
+      "per_seed": [
+        1.0290832036270154,
+        1.0368231176536618,
+        1.0281559132378668
+      ],
+      "metric": "nrmse"
+    },
+    "log1248": {
+      "name": "Tenseur log {1,2,4,8} N=200",
+      "proto": "rho_sur_validation",
+      "mean": 1.0383045618931763,
+      "std": 0.005351549013534805,
+      "per_seed": [
+        1.0357250911944007,
+        1.0457561446483357,
+        1.033432449836792
+      ],
+      "metric": "nrmse"
+    },
+    "tau1": {
+      "name": "Tenseur tau=1 seul (contrôle)",
+      "proto": "rho_sur_validation",
+      "mean": 1.035755214319961,
+      "std": 0.007641814526115016,
+      "per_seed": [
+        1.0401413023570583,
+        1.0421159804276336,
+        1.0250083601751918
+      ],
+      "metric": "nrmse"
+    }
+  }
+}

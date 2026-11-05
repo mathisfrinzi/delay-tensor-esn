@@ -1,0 +1,5631 @@
+{
+ "cells": {
+  "narma30|esn_fuite|s0|L250": {
+   "nrmse": 0.4602999964100654,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s0|L500": {
+   "nrmse": 0.4089895678428467,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s0|L1000": {
+   "nrmse": 0.3928158276195641,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s0|L2000": {
+   "nrmse": 0.38225527105493085,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s0|L4000": {
+   "nrmse": 0.37714308936532753,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s0|L8000": {
+   "nrmse": 0.3760479841576799,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s0|L16000": {
+   "nrmse": 0.37393773137965386,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s0|L32000": {
+   "nrmse": 0.37245198199506774,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s1|L250": {
+   "nrmse": 0.43932889034951167,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s1|L500": {
+   "nrmse": 0.4108930263616386,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s1|L1000": {
+   "nrmse": 0.39450170694108994,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s1|L2000": {
+   "nrmse": 0.393290806923819,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s1|L4000": {
+   "nrmse": 0.3837697203475341,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s1|L8000": {
+   "nrmse": 0.36329008660211876,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s1|L16000": {
+   "nrmse": 0.34394273260610253,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s1|L32000": {
+   "nrmse": 0.32728598956388943,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s2|L250": {
+   "nrmse": 0.6852591544430253,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s2|L500": {
+   "nrmse": 0.5854738951834763,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s2|L1000": {
+   "nrmse": 0.5038679290470925,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s2|L2000": {
+   "nrmse": 0.46415391228604846,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s2|L4000": {
+   "nrmse": 0.42681406780114806,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s2|L8000": {
+   "nrmse": 0.399614913823569,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s2|L16000": {
+   "nrmse": 0.3795073279014027,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s2|L32000": {
+   "nrmse": 0.37271370951642907,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s3|L250": {
+   "nrmse": 0.6822194238427683,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s3|L500": {
+   "nrmse": 0.6195371100109013,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s3|L1000": {
+   "nrmse": 0.5691484428150125,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s3|L2000": {
+   "nrmse": 0.5364110467676695,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s3|L4000": {
+   "nrmse": 0.5096346720799584,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s3|L8000": {
+   "nrmse": 0.5006399675247987,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s3|L16000": {
+   "nrmse": 0.49270707770685884,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s3|L32000": {
+   "nrmse": 0.4861717051384008,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s4|L250": {
+   "nrmse": 0.5458535426197478,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s4|L500": {
+   "nrmse": 0.6786186538412057,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s4|L1000": {
+   "nrmse": 0.5845939875310777,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s4|L2000": {
+   "nrmse": 0.4441624826350608,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s4|L4000": {
+   "nrmse": 0.4009425735075397,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s4|L8000": {
+   "nrmse": 0.38622616528531695,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s4|L16000": {
+   "nrmse": 0.3801175304713093,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s4|L32000": {
+   "nrmse": 0.37713162203672856,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s5|L250": {
+   "nrmse": 0.44658620947506483,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s5|L500": {
+   "nrmse": 0.42170596618511197,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s5|L1000": {
+   "nrmse": 0.3753821012820676,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s5|L2000": {
+   "nrmse": 0.2706574208090512,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s5|L4000": {
+   "nrmse": 0.2496369916669077,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s5|L8000": {
+   "nrmse": 0.23813543153815736,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s5|L16000": {
+   "nrmse": 0.23215370719250428,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s5|L32000": {
+   "nrmse": 0.22978082116305015,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s6|L250": {
+   "nrmse": 0.44029997678612026,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s6|L500": {
+   "nrmse": 0.41519303746004915,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s6|L1000": {
+   "nrmse": 0.40203392105199953,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s6|L2000": {
+   "nrmse": 0.3861994128568699,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s6|L4000": {
+   "nrmse": 0.3779552227438449,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s6|L8000": {
+   "nrmse": 0.3624670352090021,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s6|L16000": {
+   "nrmse": 0.35296313595278284,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s6|L32000": {
+   "nrmse": 0.34800968157902,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s7|L250": {
+   "nrmse": 0.418243195102824,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s7|L500": {
+   "nrmse": 0.3917655224232132,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s7|L1000": {
+   "nrmse": 0.3415342226830893,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s7|L2000": {
+   "nrmse": 0.2742415428845299,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s7|L4000": {
+   "nrmse": 0.247305362204297,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s7|L8000": {
+   "nrmse": 0.23181994828622768,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s7|L16000": {
+   "nrmse": 0.22569913112545625,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s7|L32000": {
+   "nrmse": 0.2235883984711726,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s8|L250": {
+   "nrmse": 0.6466662175028577,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s8|L500": {
+   "nrmse": 0.5253911510239989,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s8|L1000": {
+   "nrmse": 0.4504912732700753,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s8|L2000": {
+   "nrmse": 0.4168372857682006,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s8|L4000": {
+   "nrmse": 0.3920465819588689,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s8|L8000": {
+   "nrmse": 0.38118681935575055,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s8|L16000": {
+   "nrmse": 0.37660710975449607,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s8|L32000": {
+   "nrmse": 0.3703206753531789,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s9|L250": {
+   "nrmse": 0.7578236976654608,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s9|L500": {
+   "nrmse": 0.6224309679050745,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s9|L1000": {
+   "nrmse": 0.5826196968478857,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s9|L2000": {
+   "nrmse": 0.5436798335980674,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s9|L4000": {
+   "nrmse": 0.5061899646080599,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s9|L8000": {
+   "nrmse": 0.48261073297079676,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s9|L16000": {
+   "nrmse": 0.4708309612972948,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_fuite|s9|L32000": {
+   "nrmse": 0.46338041633315796,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s0|L250": {
+   "nrmse": 0.6993993241713051,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s0|L500": {
+   "nrmse": 0.6891812409403365,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s0|L1000": {
+   "nrmse": 0.6761173192849577,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s0|L2000": {
+   "nrmse": 0.6713906941402167,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s0|L4000": {
+   "nrmse": 0.6423425527143243,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s0|L8000": {
+   "nrmse": 0.6303183958730953,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s0|L16000": {
+   "nrmse": 0.627122479737776,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s0|L32000": {
+   "nrmse": 0.624178945604534,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s1|L250": {
+   "nrmse": 0.720049136438363,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s1|L500": {
+   "nrmse": 0.6817672131323596,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s1|L1000": {
+   "nrmse": 0.6676720755004578,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s1|L2000": {
+   "nrmse": 0.6614877327700945,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s1|L4000": {
+   "nrmse": 0.6598181160942104,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s1|L8000": {
+   "nrmse": 0.6530403035292336,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s1|L16000": {
+   "nrmse": 0.6437842793333172,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s1|L32000": {
+   "nrmse": 0.6383982745573888,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s2|L250": {
+   "nrmse": 0.7037222715175423,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s2|L500": {
+   "nrmse": 0.6860824155815528,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s2|L1000": {
+   "nrmse": 0.6582655021163816,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s2|L2000": {
+   "nrmse": 0.6558147968717248,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s2|L4000": {
+   "nrmse": 0.6472270176942201,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s2|L8000": {
+   "nrmse": 0.6372245342475981,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s2|L16000": {
+   "nrmse": 0.6337882323868337,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s2|L32000": {
+   "nrmse": 0.6304849106679331,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s3|L250": {
+   "nrmse": 0.7551679229803225,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s3|L500": {
+   "nrmse": 0.7042084678842924,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s3|L1000": {
+   "nrmse": 0.7191276044374542,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s3|L2000": {
+   "nrmse": 0.6658794564224875,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s3|L4000": {
+   "nrmse": 0.6516899788818724,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s3|L8000": {
+   "nrmse": 0.6447896338201667,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s3|L16000": {
+   "nrmse": 0.6395694312532122,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s3|L32000": {
+   "nrmse": 0.6334350567592458,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s4|L250": {
+   "nrmse": 0.7383509980171962,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s4|L500": {
+   "nrmse": 0.6683318291051829,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s4|L1000": {
+   "nrmse": 0.631517739450077,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s4|L2000": {
+   "nrmse": 0.6163448571160798,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s4|L4000": {
+   "nrmse": 0.6078431038759745,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s4|L8000": {
+   "nrmse": 0.5997529437118281,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s4|L16000": {
+   "nrmse": 0.5932615917745764,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s4|L32000": {
+   "nrmse": 0.5900861817588907,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s5|L250": {
+   "nrmse": 0.6865729690283082,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s5|L500": {
+   "nrmse": 0.6806139142473296,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s5|L1000": {
+   "nrmse": 0.6483833944624605,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s5|L2000": {
+   "nrmse": 0.6222132906661115,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s5|L4000": {
+   "nrmse": 0.6064258930888871,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s5|L8000": {
+   "nrmse": 0.6028889233068323,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s5|L16000": {
+   "nrmse": 0.5993334252044363,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s5|L32000": {
+   "nrmse": 0.5944310963765147,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s6|L250": {
+   "nrmse": 0.7269036110307328,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s6|L500": {
+   "nrmse": 0.6779056902265601,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s6|L1000": {
+   "nrmse": 0.679765736152311,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s6|L2000": {
+   "nrmse": 0.6309332944398385,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s6|L4000": {
+   "nrmse": 0.6203202385176114,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s6|L8000": {
+   "nrmse": 0.6149155873301335,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s6|L16000": {
+   "nrmse": 0.6112674438547223,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s6|L32000": {
+   "nrmse": 0.6068567893993263,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s7|L250": {
+   "nrmse": 0.7360503473641451,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s7|L500": {
+   "nrmse": 0.6889613987933079,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s7|L1000": {
+   "nrmse": 0.6789575692683089,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s7|L2000": {
+   "nrmse": 0.6565549299920924,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s7|L4000": {
+   "nrmse": 0.6419480222949161,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s7|L8000": {
+   "nrmse": 0.6250055414309925,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s7|L16000": {
+   "nrmse": 0.6155638709451452,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s7|L32000": {
+   "nrmse": 0.6109597395605703,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s8|L250": {
+   "nrmse": 0.7284858120291492,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s8|L500": {
+   "nrmse": 0.7173580617797932,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s8|L1000": {
+   "nrmse": 0.684715439780516,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s8|L2000": {
+   "nrmse": 0.6664619766062776,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s8|L4000": {
+   "nrmse": 0.6526343347924589,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s8|L8000": {
+   "nrmse": 0.6437188882846765,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s8|L16000": {
+   "nrmse": 0.6341303147540801,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s8|L32000": {
+   "nrmse": 0.6314265959141534,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s9|L250": {
+   "nrmse": 0.7423652815556859,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s9|L500": {
+   "nrmse": 0.7148347104818545,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s9|L1000": {
+   "nrmse": 0.6890294561329044,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s9|L2000": {
+   "nrmse": 0.6717620436245854,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s9|L4000": {
+   "nrmse": 0.6594058530714005,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s9|L8000": {
+   "nrmse": 0.644607984091694,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s9|L16000": {
+   "nrmse": 0.6415883231133525,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|dts|s9|L32000": {
+   "nrmse": 0.6362941652277285,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s0|L250": {
+   "nrmse": 0.04496033541686303,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s0|L500": {
+   "nrmse": 0.023177957492320322,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s0|L1000": {
+   "nrmse": 0.013597354210233786,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s0|L2000": {
+   "nrmse": 0.010786026840715472,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s0|L4000": {
+   "nrmse": 0.00940581205065751,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s0|L8000": {
+   "nrmse": 0.008854794499361373,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s0|L16000": {
+   "nrmse": 0.008646107591883818,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s0|L32000": {
+   "nrmse": 0.008465694235891929,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s1|L250": {
+   "nrmse": 0.07781761328666831,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s1|L500": {
+   "nrmse": 0.04216727019590605,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s1|L1000": {
+   "nrmse": 0.028137320307370876,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s1|L2000": {
+   "nrmse": 0.02132503589141891,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s1|L4000": {
+   "nrmse": 0.017962759045971933,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s1|L8000": {
+   "nrmse": 0.01535684268752795,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s1|L16000": {
+   "nrmse": 0.013876644403132302,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s1|L32000": {
+   "nrmse": 0.012785851352386952,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s2|L250": {
+   "nrmse": 0.5035124581458446,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s2|L500": {
+   "nrmse": 0.43090898725000376,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s2|L1000": {
+   "nrmse": 0.36819637368714797,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s2|L2000": {
+   "nrmse": 0.29942943915909787,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s2|L4000": {
+   "nrmse": 0.28319283111378557,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s2|L8000": {
+   "nrmse": 0.2717081900954618,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s2|L16000": {
+   "nrmse": 0.26763416315340666,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s2|L32000": {
+   "nrmse": 0.26611474315338357,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s3|L250": {
+   "nrmse": 0.18947582022477125,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s3|L500": {
+   "nrmse": 0.08781275914769186,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s3|L1000": {
+   "nrmse": 0.05225316814832896,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s3|L2000": {
+   "nrmse": 0.04196939362345216,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s3|L4000": {
+   "nrmse": 0.03682517936152771,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s3|L8000": {
+   "nrmse": 0.035374927209389104,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s3|L16000": {
+   "nrmse": 0.0343243732072085,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s3|L32000": {
+   "nrmse": 0.033848039311010894,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s4|L250": {
+   "nrmse": 0.01502340890757182,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s4|L500": {
+   "nrmse": 0.00953095174051642,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s4|L1000": {
+   "nrmse": 0.007673387052246549,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s4|L2000": {
+   "nrmse": 0.006721803874887256,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s4|L4000": {
+   "nrmse": 0.006346596235377109,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s4|L8000": {
+   "nrmse": 0.0061389642892850085,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s4|L16000": {
+   "nrmse": 0.006139923356522545,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s4|L32000": {
+   "nrmse": 0.006070120239991118,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s5|L250": {
+   "nrmse": 0.05663474787138636,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s5|L500": {
+   "nrmse": 0.035304261422845214,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s5|L1000": {
+   "nrmse": 0.021207509311486482,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s5|L2000": {
+   "nrmse": 0.015482600092908198,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s5|L4000": {
+   "nrmse": 0.013859952785867434,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s5|L8000": {
+   "nrmse": 0.012945942593787407,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s5|L16000": {
+   "nrmse": 0.012638444854332912,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s5|L32000": {
+   "nrmse": 0.01243024689966263,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s6|L250": {
+   "nrmse": 0.4644142165616959,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s6|L500": {
+   "nrmse": 0.31886143068034506,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s6|L1000": {
+   "nrmse": 0.31582739828228007,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s6|L2000": {
+   "nrmse": 0.19493572917798177,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s6|L4000": {
+   "nrmse": 0.15436382330108592,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s6|L8000": {
+   "nrmse": 0.1342675362637615,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s6|L16000": {
+   "nrmse": 0.13089208511864128,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s6|L32000": {
+   "nrmse": 0.1281958430709035,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s7|L250": {
+   "nrmse": 0.22390397514489724,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s7|L500": {
+   "nrmse": 0.16922447455413214,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s7|L1000": {
+   "nrmse": 0.11815176961178901,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s7|L2000": {
+   "nrmse": 0.09031392803716089,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s7|L4000": {
+   "nrmse": 0.07155692942042852,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s7|L8000": {
+   "nrmse": 0.05695130394516984,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s7|L16000": {
+   "nrmse": 0.04296034187939458,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s7|L32000": {
+   "nrmse": 0.03211860796643786,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s8|L250": {
+   "nrmse": 0.3844910864502553,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s8|L500": {
+   "nrmse": 0.17539792576903002,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s8|L1000": {
+   "nrmse": 0.10769249953469398,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s8|L2000": {
+   "nrmse": 0.08541063614405975,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s8|L4000": {
+   "nrmse": 0.0749763165978475,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s8|L8000": {
+   "nrmse": 0.07067260184848509,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s8|L16000": {
+   "nrmse": 0.06868923963208512,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s8|L32000": {
+   "nrmse": 0.06823722950263225,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s9|L250": {
+   "nrmse": 0.014663048646137822,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s9|L500": {
+   "nrmse": 0.010043683673993933,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s9|L1000": {
+   "nrmse": 0.007042122519788203,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s9|L2000": {
+   "nrmse": 0.00635492653721296,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s9|L4000": {
+   "nrmse": 0.005728684575699223,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s9|L8000": {
+   "nrmse": 0.005238605553873818,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s9|L16000": {
+   "nrmse": 0.005212640395502405,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_fuite|s9|L32000": {
+   "nrmse": 0.005146426941680993,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s0|L250": {
+   "nrmse": 0.06142551228755809,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s0|L500": {
+   "nrmse": 0.03363740603236402,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s0|L1000": {
+   "nrmse": 0.021204655470049363,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s0|L2000": {
+   "nrmse": 0.016816275197912064,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s0|L4000": {
+   "nrmse": 0.015059179439392046,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s0|L8000": {
+   "nrmse": 0.01441192436103246,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s0|L16000": {
+   "nrmse": 0.013974721062377243,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s0|L32000": {
+   "nrmse": 0.013877693172939527,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s1|L250": {
+   "nrmse": 0.1796441228900075,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s1|L500": {
+   "nrmse": 0.10332179758877504,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s1|L1000": {
+   "nrmse": 0.0704873196310108,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s1|L2000": {
+   "nrmse": 0.057163222840165256,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s1|L4000": {
+   "nrmse": 0.04864394815807196,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s1|L8000": {
+   "nrmse": 0.042975692904148086,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s1|L16000": {
+   "nrmse": 0.03948696084003871,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s1|L32000": {
+   "nrmse": 0.03799200058081719,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s2|L250": {
+   "nrmse": 0.037178779708546696,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s2|L500": {
+   "nrmse": 0.020854279665887657,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s2|L1000": {
+   "nrmse": 0.015179281529938547,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s2|L2000": {
+   "nrmse": 0.013094366013223379,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s2|L4000": {
+   "nrmse": 0.012077093944980277,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s2|L8000": {
+   "nrmse": 0.011626247305215076,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s2|L16000": {
+   "nrmse": 0.011328957629185512,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s2|L32000": {
+   "nrmse": 0.011208510447308551,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s3|L250": {
+   "nrmse": 0.012552650832322829,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s3|L500": {
+   "nrmse": 0.009744111170934532,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s3|L1000": {
+   "nrmse": 0.007736826058504294,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s3|L2000": {
+   "nrmse": 0.00684667485613742,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s3|L4000": {
+   "nrmse": 0.00622265205074824,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s3|L8000": {
+   "nrmse": 0.005954413075645202,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s3|L16000": {
+   "nrmse": 0.0058208266969894925,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s3|L32000": {
+   "nrmse": 0.005783858068255444,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s4|L250": {
+   "nrmse": 0.09538259287227902,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s4|L500": {
+   "nrmse": 0.046309408074228765,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s4|L1000": {
+   "nrmse": 0.03567755226702734,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s4|L2000": {
+   "nrmse": 0.030409238347196246,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s4|L4000": {
+   "nrmse": 0.02775944649957262,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s4|L8000": {
+   "nrmse": 0.026656387007554693,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s4|L16000": {
+   "nrmse": 0.026304575504325897,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s4|L32000": {
+   "nrmse": 0.02589925136601161,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s5|L250": {
+   "nrmse": 0.025940348241788837,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s5|L500": {
+   "nrmse": 0.013056938699818612,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s5|L1000": {
+   "nrmse": 0.009574194952335354,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s5|L2000": {
+   "nrmse": 0.0076705661800657455,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s5|L4000": {
+   "nrmse": 0.006612730958493477,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s5|L8000": {
+   "nrmse": 0.006232871350750824,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s5|L16000": {
+   "nrmse": 0.006077787730465163,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s5|L32000": {
+   "nrmse": 0.005975734550995404,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s6|L250": {
+   "nrmse": 0.03374771703615726,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s6|L500": {
+   "nrmse": 0.019369928823946187,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s6|L1000": {
+   "nrmse": 0.014108874139574231,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s6|L2000": {
+   "nrmse": 0.011854391894917427,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s6|L4000": {
+   "nrmse": 0.0105315404597683,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s6|L8000": {
+   "nrmse": 0.0100793295403548,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s6|L16000": {
+   "nrmse": 0.00984910077521154,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s6|L32000": {
+   "nrmse": 0.009704459932156746,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s7|L250": {
+   "nrmse": 0.0486794983431635,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s7|L500": {
+   "nrmse": 0.025492079113810157,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s7|L1000": {
+   "nrmse": 0.01815245611981808,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s7|L2000": {
+   "nrmse": 0.015029841717044523,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s7|L4000": {
+   "nrmse": 0.0136165964542011,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s7|L8000": {
+   "nrmse": 0.012803315214639656,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s7|L16000": {
+   "nrmse": 0.01234697320998072,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s7|L32000": {
+   "nrmse": 0.012286656683256812,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s8|L250": {
+   "nrmse": 0.22685640344000688,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s8|L500": {
+   "nrmse": 0.1163934357611504,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s8|L1000": {
+   "nrmse": 0.07351463314519666,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s8|L2000": {
+   "nrmse": 0.06269867517815622,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s8|L4000": {
+   "nrmse": 0.056784588387491494,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s8|L8000": {
+   "nrmse": 0.05400041396220015,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s8|L16000": {
+   "nrmse": 0.053241420136047574,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s8|L32000": {
+   "nrmse": 0.052760485244456305,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s9|L250": {
+   "nrmse": 0.0171865169338734,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s9|L500": {
+   "nrmse": 0.009079311685909986,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s9|L1000": {
+   "nrmse": 0.007141958606105153,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s9|L2000": {
+   "nrmse": 0.006308973673908502,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s9|L4000": {
+   "nrmse": 0.005772684550792201,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s9|L8000": {
+   "nrmse": 0.005383798176962274,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s9|L16000": {
+   "nrmse": 0.0054040142387790395,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|tenseur_sans_fuite|s9|L32000": {
+   "nrmse": 0.005311438861231712,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s0|L250": {
+   "nrmse": 0.009201255142407246,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s0|L500": {
+   "nrmse": 0.006110607752776569,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s0|L1000": {
+   "nrmse": 0.005423588102953335,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s0|L2000": {
+   "nrmse": 0.004661863242485827,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s0|L4000": {
+   "nrmse": 0.004291656772217823,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s0|L8000": {
+   "nrmse": 0.00413260447815586,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s0|L16000": {
+   "nrmse": 0.00408298763886689,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s0|L32000": {
+   "nrmse": 0.0039082754129950775,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s1|L250": {
+   "nrmse": 0.010169798405586856,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s1|L500": {
+   "nrmse": 0.00677148352638017,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s1|L1000": {
+   "nrmse": 0.005234101628182679,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s1|L2000": {
+   "nrmse": 0.004273865560334225,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s1|L4000": {
+   "nrmse": 0.003991139429578683,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s1|L8000": {
+   "nrmse": 0.003606852789527345,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s1|L16000": {
+   "nrmse": 0.0035178655236371152,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s1|L32000": {
+   "nrmse": 0.0033904801783923265,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s2|L250": {
+   "nrmse": 0.008888972120309981,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s2|L500": {
+   "nrmse": 0.006774872561495536,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s2|L1000": {
+   "nrmse": 0.005645721387546102,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s2|L2000": {
+   "nrmse": 0.004793001087687765,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s2|L4000": {
+   "nrmse": 0.004366656600486024,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s2|L8000": {
+   "nrmse": 0.0041635343360708335,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s2|L16000": {
+   "nrmse": 0.0040729734472407415,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s2|L32000": {
+   "nrmse": 0.004010575557256958,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s3|L250": {
+   "nrmse": 0.007959422157601603,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s3|L500": {
+   "nrmse": 0.00676064413921764,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s3|L1000": {
+   "nrmse": 0.0054923667855028896,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s3|L2000": {
+   "nrmse": 0.004763001163089188,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s3|L4000": {
+   "nrmse": 0.004314463946622849,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s3|L8000": {
+   "nrmse": 0.004103616237615262,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s3|L16000": {
+   "nrmse": 0.003970130676399291,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s3|L32000": {
+   "nrmse": 0.003913510315091423,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s4|L250": {
+   "nrmse": 0.009666051603840863,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s4|L500": {
+   "nrmse": 0.005648187233152171,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s4|L1000": {
+   "nrmse": 0.004841831530908428,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s4|L2000": {
+   "nrmse": 0.0043393770394695086,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s4|L4000": {
+   "nrmse": 0.004038312235467991,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s4|L8000": {
+   "nrmse": 0.0038854407513125287,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s4|L16000": {
+   "nrmse": 0.0037955236255517045,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s4|L32000": {
+   "nrmse": 0.003722081522861924,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s5|L250": {
+   "nrmse": 0.009068839255547472,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s5|L500": {
+   "nrmse": 0.0057847961789972814,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s5|L1000": {
+   "nrmse": 0.004906734637265306,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s5|L2000": {
+   "nrmse": 0.004244720756563654,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s5|L4000": {
+   "nrmse": 0.0038814187265735294,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s5|L8000": {
+   "nrmse": 0.0038067993481854787,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s5|L16000": {
+   "nrmse": 0.003749203820446309,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s5|L32000": {
+   "nrmse": 0.003678738570613673,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s6|L250": {
+   "nrmse": 0.008664224529723437,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s6|L500": {
+   "nrmse": 0.007376699417574901,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s6|L1000": {
+   "nrmse": 0.006065408685461062,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s6|L2000": {
+   "nrmse": 0.0054307724982652185,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s6|L4000": {
+   "nrmse": 0.0044381716187091086,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s6|L8000": {
+   "nrmse": 0.004242545502473874,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s6|L16000": {
+   "nrmse": 0.0042494181842216,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s6|L32000": {
+   "nrmse": 0.004245354356972717,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s7|L250": {
+   "nrmse": 0.008306842634995242,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s7|L500": {
+   "nrmse": 0.006103888369452659,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s7|L1000": {
+   "nrmse": 0.004840549449057272,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s7|L2000": {
+   "nrmse": 0.004367716543514404,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s7|L4000": {
+   "nrmse": 0.004061206109720969,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s7|L8000": {
+   "nrmse": 0.0038669567898690165,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s7|L16000": {
+   "nrmse": 0.00368449944681042,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s7|L32000": {
+   "nrmse": 0.0036493981187412164,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s8|L250": {
+   "nrmse": 0.009791264218012258,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s8|L500": {
+   "nrmse": 0.006736200027143848,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s8|L1000": {
+   "nrmse": 0.005160098399966885,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s8|L2000": {
+   "nrmse": 0.004221450479305091,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s8|L4000": {
+   "nrmse": 0.003912620582847571,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s8|L8000": {
+   "nrmse": 0.003755215048902371,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s8|L16000": {
+   "nrmse": 0.003670766622256255,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s8|L32000": {
+   "nrmse": 0.0035844115270158516,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s9|L250": {
+   "nrmse": 0.006820103004504121,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s9|L500": {
+   "nrmse": 0.004832117289109017,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s9|L1000": {
+   "nrmse": 0.004148568646149536,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s9|L2000": {
+   "nrmse": 0.004256642042427357,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s9|L4000": {
+   "nrmse": 0.004216539239476708,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s9|L8000": {
+   "nrmse": 0.003872282446675631,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s9|L16000": {
+   "nrmse": 0.0038936713549712287,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|recette|s9|L32000": {
+   "nrmse": 0.003795936580510605,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s0|L250": {
+   "nrmse": 0.0035519991364053962,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s0|L500": {
+   "nrmse": 0.00299239649723848,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s0|L1000": {
+   "nrmse": 0.002149438996989416,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s0|L2000": {
+   "nrmse": 0.001435267746730809,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s0|L4000": {
+   "nrmse": 0.0010141152495157096,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s0|L8000": {
+   "nrmse": 0.000931114367117043,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s0|L16000": {
+   "nrmse": 0.0008902683164084962,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s0|L32000": {
+   "nrmse": 0.0008704646965323537,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s1|L250": {
+   "nrmse": 0.005834494232035657,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s1|L500": {
+   "nrmse": 0.0041925202530730616,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s1|L1000": {
+   "nrmse": 0.0023394820773897577,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s1|L2000": {
+   "nrmse": 0.0013766621986896748,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s1|L4000": {
+   "nrmse": 0.001184237298494479,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s1|L8000": {
+   "nrmse": 0.0010746899118268182,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s1|L16000": {
+   "nrmse": 0.0010332768144547875,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s1|L32000": {
+   "nrmse": 0.0010176804458447762,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s2|L250": {
+   "nrmse": 0.0052884051910044375,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s2|L500": {
+   "nrmse": 0.0026149932122516623,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s2|L1000": {
+   "nrmse": 0.0016505159480508993,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s2|L2000": {
+   "nrmse": 0.0009665605118487602,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s2|L4000": {
+   "nrmse": 0.0008495686391397419,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s2|L8000": {
+   "nrmse": 0.0007725268245963784,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s2|L16000": {
+   "nrmse": 0.0007535711090508963,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s2|L32000": {
+   "nrmse": 0.0007464434030491458,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s3|L250": {
+   "nrmse": 0.004687341684262802,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s3|L500": {
+   "nrmse": 0.003200163643491336,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s3|L1000": {
+   "nrmse": 0.0017224003598463643,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s3|L2000": {
+   "nrmse": 0.0012683424658787783,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s3|L4000": {
+   "nrmse": 0.001044614679265606,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s3|L8000": {
+   "nrmse": 0.0009737656572525037,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s3|L16000": {
+   "nrmse": 0.0009314255966638455,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s3|L32000": {
+   "nrmse": 0.0009134024978651647,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s4|L250": {
+   "nrmse": 0.003343652082390215,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s4|L500": {
+   "nrmse": 0.0024335230358532673,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s4|L1000": {
+   "nrmse": 0.0014721780946498528,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s4|L2000": {
+   "nrmse": 0.0011374658873849358,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s4|L4000": {
+   "nrmse": 0.0009578515195607408,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s4|L8000": {
+   "nrmse": 0.0008798226785590072,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s4|L16000": {
+   "nrmse": 0.0008213315609990299,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s4|L32000": {
+   "nrmse": 0.0007951018059754263,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s5|L250": {
+   "nrmse": 0.0037788252433558394,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s5|L500": {
+   "nrmse": 0.0025366020079842775,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s5|L1000": {
+   "nrmse": 0.0018493551161750709,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s5|L2000": {
+   "nrmse": 0.0010187966676956108,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s5|L4000": {
+   "nrmse": 0.00088381509597655,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s5|L8000": {
+   "nrmse": 0.0008279423397814992,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s5|L16000": {
+   "nrmse": 0.0008086641466999699,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s5|L32000": {
+   "nrmse": 0.0007915021083473311,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s6|L250": {
+   "nrmse": 0.00415165964558833,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s6|L500": {
+   "nrmse": 0.0030616563205431526,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s6|L1000": {
+   "nrmse": 0.002083939182082857,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s6|L2000": {
+   "nrmse": 0.0012702333915300503,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s6|L4000": {
+   "nrmse": 0.0010700738038848731,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s6|L8000": {
+   "nrmse": 0.0010298920247295757,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s6|L16000": {
+   "nrmse": 0.0010109509036140974,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s6|L32000": {
+   "nrmse": 0.001004679411652488,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s7|L250": {
+   "nrmse": 0.0035332309828203148,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s7|L500": {
+   "nrmse": 0.002150122162115491,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s7|L1000": {
+   "nrmse": 0.0016092631498091986,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s7|L2000": {
+   "nrmse": 0.001021347043020949,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s7|L4000": {
+   "nrmse": 0.0008890406007281283,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s7|L8000": {
+   "nrmse": 0.0008479080559959121,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s7|L16000": {
+   "nrmse": 0.0008124081345766932,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s7|L32000": {
+   "nrmse": 0.0007973730266716952,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s8|L250": {
+   "nrmse": 0.005067797967261898,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s8|L500": {
+   "nrmse": 0.0031301553919859735,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s8|L1000": {
+   "nrmse": 0.0019608260381951082,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s8|L2000": {
+   "nrmse": 0.0015295442908922735,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s8|L4000": {
+   "nrmse": 0.0011703955139388074,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s8|L8000": {
+   "nrmse": 0.0010866133831337874,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s8|L16000": {
+   "nrmse": 0.0010809298537324287,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s8|L32000": {
+   "nrmse": 0.0010721325350006817,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s9|L250": {
+   "nrmse": 0.003039644343127225,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s9|L500": {
+   "nrmse": 0.002186583000467547,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s9|L1000": {
+   "nrmse": 0.0017207577441033083,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s9|L2000": {
+   "nrmse": 0.0012177089064087118,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s9|L4000": {
+   "nrmse": 0.0010751609226516134,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s9|L8000": {
+   "nrmse": 0.0009815012991303022,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s9|L16000": {
+   "nrmse": 0.0009572235458049934,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|esn_entree|s9|L32000": {
+   "nrmse": 0.0009361238259097944,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s0|L250": {
+   "nrmse": 0.4080712279343741,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s0|L500": {
+   "nrmse": 0.39397951156952604,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s0|L1000": {
+   "nrmse": 0.38559838835126775,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s0|L2000": {
+   "nrmse": 0.378259805749804,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s0|L4000": {
+   "nrmse": 0.37191571085082825,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s0|L8000": {
+   "nrmse": 0.36939401754241125,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s0|L16000": {
+   "nrmse": 0.36683713555076364,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s0|L32000": {
+   "nrmse": 0.36529365500075084,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s1|L250": {
+   "nrmse": 0.4559689596215682,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s1|L500": {
+   "nrmse": 0.42536042473078306,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s1|L1000": {
+   "nrmse": 0.4041465415287524,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s1|L2000": {
+   "nrmse": 0.3952458207244806,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s1|L4000": {
+   "nrmse": 0.3924656945428046,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s1|L8000": {
+   "nrmse": 0.3898777123173345,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s1|L16000": {
+   "nrmse": 0.38366141557630323,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s1|L32000": {
+   "nrmse": 0.3811439887419701,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s2|L250": {
+   "nrmse": 0.4456057729641406,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s2|L500": {
+   "nrmse": 0.4265767072914761,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s2|L1000": {
+   "nrmse": 0.4057661260779956,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s2|L2000": {
+   "nrmse": 0.4011438563385958,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s2|L4000": {
+   "nrmse": 0.39355191532075695,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s2|L8000": {
+   "nrmse": 0.3900838384685498,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s2|L16000": {
+   "nrmse": 0.3876395551801174,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s2|L32000": {
+   "nrmse": 0.3872995857936323,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s3|L250": {
+   "nrmse": 0.4519015260005359,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s3|L500": {
+   "nrmse": 0.4009056809576377,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s3|L1000": {
+   "nrmse": 0.3819637611238436,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s3|L2000": {
+   "nrmse": 0.3770800063246055,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s3|L4000": {
+   "nrmse": 0.3711805085719609,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s3|L8000": {
+   "nrmse": 0.3665941259681413,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s3|L16000": {
+   "nrmse": 0.3643586930588364,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s3|L32000": {
+   "nrmse": 0.36277036097162746,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s4|L250": {
+   "nrmse": 0.42051758371505493,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s4|L500": {
+   "nrmse": 0.39843324122079626,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s4|L1000": {
+   "nrmse": 0.3965478820536133,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s4|L2000": {
+   "nrmse": 0.387867255047391,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s4|L4000": {
+   "nrmse": 0.3827861462771762,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s4|L8000": {
+   "nrmse": 0.3778496504238753,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s4|L16000": {
+   "nrmse": 0.37646970663996204,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s4|L32000": {
+   "nrmse": 0.3747496954023042,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s5|L250": {
+   "nrmse": 0.41835208394952783,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s5|L500": {
+   "nrmse": 0.41178950696341954,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s5|L1000": {
+   "nrmse": 0.38536894905942093,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s5|L2000": {
+   "nrmse": 0.3788134046475882,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s5|L4000": {
+   "nrmse": 0.3696542298755417,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s5|L8000": {
+   "nrmse": 0.36833872017130304,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s5|L16000": {
+   "nrmse": 0.36487285061369557,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s5|L32000": {
+   "nrmse": 0.3617067085767399,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s6|L250": {
+   "nrmse": 0.4379206026865179,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s6|L500": {
+   "nrmse": 0.4163725604921382,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s6|L1000": {
+   "nrmse": 0.39674858234953864,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s6|L2000": {
+   "nrmse": 0.38480735237089064,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s6|L4000": {
+   "nrmse": 0.37605621247628723,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s6|L8000": {
+   "nrmse": 0.37339244636619184,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s6|L16000": {
+   "nrmse": 0.3718838806392874,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s6|L32000": {
+   "nrmse": 0.3715242577286282,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s7|L250": {
+   "nrmse": 0.4187266763688196,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s7|L500": {
+   "nrmse": 0.3897968250482478,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s7|L1000": {
+   "nrmse": 0.3807723779625983,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s7|L2000": {
+   "nrmse": 0.3738541294913132,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s7|L4000": {
+   "nrmse": 0.3673367113466928,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s7|L8000": {
+   "nrmse": 0.36426384300704506,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s7|L16000": {
+   "nrmse": 0.36110925792923354,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s7|L32000": {
+   "nrmse": 0.3599431289764531,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s8|L250": {
+   "nrmse": 0.43343759106148755,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s8|L500": {
+   "nrmse": 0.4137291946189334,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s8|L1000": {
+   "nrmse": 0.38786412903437945,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s8|L2000": {
+   "nrmse": 0.37214074132741687,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s8|L4000": {
+   "nrmse": 0.3686291004490498,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s8|L8000": {
+   "nrmse": 0.36586655093459086,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s8|L16000": {
+   "nrmse": 0.36516895849621994,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s8|L32000": {
+   "nrmse": 0.3641193974763445,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s9|L250": {
+   "nrmse": 0.4708542360010593,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s9|L500": {
+   "nrmse": 0.4059277819860945,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s9|L1000": {
+   "nrmse": 0.3900032150383149,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s9|L2000": {
+   "nrmse": 0.38055872030465165,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s9|L4000": {
+   "nrmse": 0.3736927244198027,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s9|L8000": {
+   "nrmse": 0.37199584421567183,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s9|L16000": {
+   "nrmse": 0.3686237694351138,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|uniforme_10|s9|L32000": {
+   "nrmse": 0.3671002385305023,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s0|L250": {
+   "nrmse": 0.3129347900369869,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s0|L500": {
+   "nrmse": 0.24326240720770978,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s0|L1000": {
+   "nrmse": 0.00814378934601617,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s0|L2000": {
+   "nrmse": 0.004517309350610808,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s0|L4000": {
+   "nrmse": 0.0037728747655673494,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s0|L8000": {
+   "nrmse": 0.0037717487511125503,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s0|L16000": {
+   "nrmse": 0.003685530308713516,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s0|L32000": {
+   "nrmse": 0.003537807914405787,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s1|L250": {
+   "nrmse": 0.3565113294348169,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s1|L500": {
+   "nrmse": 0.2472224004962122,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s1|L1000": {
+   "nrmse": 0.009531699110998782,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s1|L2000": {
+   "nrmse": 0.004210204761694441,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s1|L4000": {
+   "nrmse": 0.003451711504056283,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s1|L8000": {
+   "nrmse": 0.0032070496387183473,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s1|L16000": {
+   "nrmse": 0.0031266732731716714,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s1|L32000": {
+   "nrmse": 0.002962226164842921,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s2|L250": {
+   "nrmse": 0.3573080649924494,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s2|L500": {
+   "nrmse": 0.2622141458815459,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s2|L1000": {
+   "nrmse": 0.009362995618919337,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s2|L2000": {
+   "nrmse": 0.0049915449285205795,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s2|L4000": {
+   "nrmse": 0.004267232440846142,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s2|L8000": {
+   "nrmse": 0.004142630474257478,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s2|L16000": {
+   "nrmse": 0.003921643855174878,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s2|L32000": {
+   "nrmse": 0.003854236111179686,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s3|L250": {
+   "nrmse": 0.3319339372895638,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s3|L500": {
+   "nrmse": 0.2392919163106772,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s3|L1000": {
+   "nrmse": 0.007242332524448944,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s3|L2000": {
+   "nrmse": 0.005014569238319966,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s3|L4000": {
+   "nrmse": 0.004332863125002168,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s3|L8000": {
+   "nrmse": 0.004105010019843513,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s3|L16000": {
+   "nrmse": 0.003865648590669204,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s3|L32000": {
+   "nrmse": 0.0036974321439638496,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s4|L250": {
+   "nrmse": 0.3376474615819029,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s4|L500": {
+   "nrmse": 0.25028340916247477,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s4|L1000": {
+   "nrmse": 0.007917685625590237,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s4|L2000": {
+   "nrmse": 0.004397204546652399,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s4|L4000": {
+   "nrmse": 0.0038002100716465546,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s4|L8000": {
+   "nrmse": 0.003579106959141414,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s4|L16000": {
+   "nrmse": 0.003482689857843033,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s4|L32000": {
+   "nrmse": 0.003484805244146727,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s5|L250": {
+   "nrmse": 0.324891447151253,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s5|L500": {
+   "nrmse": 0.24152271852622212,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s5|L1000": {
+   "nrmse": 0.00871389038444751,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s5|L2000": {
+   "nrmse": 0.004285617094923821,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s5|L4000": {
+   "nrmse": 0.0037813146277455383,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s5|L8000": {
+   "nrmse": 0.003515073385834004,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s5|L16000": {
+   "nrmse": 0.0034797126625334043,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s5|L32000": {
+   "nrmse": 0.0035056259303006946,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s6|L250": {
+   "nrmse": 0.3462990873999421,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s6|L500": {
+   "nrmse": 0.25165269056738176,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s6|L1000": {
+   "nrmse": 0.009832013311357843,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s6|L2000": {
+   "nrmse": 0.005251250337606195,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s6|L4000": {
+   "nrmse": 0.0041511311847009,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s6|L8000": {
+   "nrmse": 0.004011102240284682,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s6|L16000": {
+   "nrmse": 0.004007145143758868,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s6|L32000": {
+   "nrmse": 0.004006639211299502,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s7|L250": {
+   "nrmse": 0.32242369230785767,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s7|L500": {
+   "nrmse": 0.2422339508311361,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s7|L1000": {
+   "nrmse": 0.009095783544173317,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s7|L2000": {
+   "nrmse": 0.004358939863282618,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s7|L4000": {
+   "nrmse": 0.0034684786508207767,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s7|L8000": {
+   "nrmse": 0.003300594369111431,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s7|L16000": {
+   "nrmse": 0.003272707947918221,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s7|L32000": {
+   "nrmse": 0.0032727120178217962,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s8|L250": {
+   "nrmse": 0.3379374626237135,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s8|L500": {
+   "nrmse": 0.25572811224071357,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s8|L1000": {
+   "nrmse": 0.00809252792361123,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s8|L2000": {
+   "nrmse": 0.004161154307454163,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s8|L4000": {
+   "nrmse": 0.0034651606151030177,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s8|L8000": {
+   "nrmse": 0.003376328582147501,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s8|L16000": {
+   "nrmse": 0.003229677969169966,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s8|L32000": {
+   "nrmse": 0.003163519407774304,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s9|L250": {
+   "nrmse": 0.34898242459574075,
+   "L_effectif": 250,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s9|L500": {
+   "nrmse": 0.24559357468092988,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s9|L1000": {
+   "nrmse": 0.009464186403020046,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s9|L2000": {
+   "nrmse": 0.0039636252615026435,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s9|L4000": {
+   "nrmse": 0.003389486741676921,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s9|L8000": {
+   "nrmse": 0.0032621338280860333,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s9|L16000": {
+   "nrmse": 0.0032940390195491005,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "narma30|ngrc|s9|L32000": {
+   "nrmse": 0.0032386463367335507,
+   "L_effectif": 32000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s0|L500": {
+   "nrmse": 0.6593693889845506,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s0|L1000": {
+   "nrmse": 0.7635814211923523,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s0|L2000": {
+   "nrmse": 0.7449202874802234,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s0|L4000": {
+   "nrmse": 0.6941675584106707,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s0|L8000": {
+   "nrmse": 0.4104832268897887,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s0|L16000": {
+   "nrmse": 0.285004884208313,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s1|L500": {
+   "nrmse": 0.599362387334881,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s1|L1000": {
+   "nrmse": 0.7806112813217326,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s1|L2000": {
+   "nrmse": 0.7186059853602015,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s1|L4000": {
+   "nrmse": 0.8111658622260315,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s1|L8000": {
+   "nrmse": 0.40924889416825583,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s1|L16000": {
+   "nrmse": 0.27223464199021663,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s2|L500": {
+   "nrmse": 1.5369802232920602,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s2|L1000": {
+   "nrmse": 1.2920418683321484,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s2|L2000": {
+   "nrmse": 1.0887557016623843,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s2|L4000": {
+   "nrmse": 1.011067574292965,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s2|L8000": {
+   "nrmse": 0.9306333531806847,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s2|L16000": {
+   "nrmse": 0.3881138096739203,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s3|L500": {
+   "nrmse": 1.910774149825179,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s3|L1000": {
+   "nrmse": 1.9084431448997596,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s3|L2000": {
+   "nrmse": 1.8165415196767174,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s3|L4000": {
+   "nrmse": 2.0126743790727692,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s3|L8000": {
+   "nrmse": 0.6163530767831118,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s3|L16000": {
+   "nrmse": 0.37698756068405553,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s4|L500": {
+   "nrmse": 0.3615642482896891,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s4|L1000": {
+   "nrmse": 0.45087068184009654,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s4|L2000": {
+   "nrmse": 0.47816943083753033,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s4|L4000": {
+   "nrmse": 0.3847692895078038,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s4|L8000": {
+   "nrmse": 0.3575599256849578,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s4|L16000": {
+   "nrmse": 0.2740635430093969,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s5|L500": {
+   "nrmse": 0.6561562511643093,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s5|L1000": {
+   "nrmse": 0.7051389883866237,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s5|L2000": {
+   "nrmse": 1.3001313168256194,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s5|L4000": {
+   "nrmse": 0.5545826296268617,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s5|L8000": {
+   "nrmse": 0.4117101139792759,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s5|L16000": {
+   "nrmse": 0.272461962979029,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s6|L500": {
+   "nrmse": 1.4293448748722095,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s6|L1000": {
+   "nrmse": 5.490087400098382,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s6|L2000": {
+   "nrmse": 5.465659743514652,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s6|L4000": {
+   "nrmse": 1.9233684957568156,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s6|L8000": {
+   "nrmse": 1.1058771745600187,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s6|L16000": {
+   "nrmse": 0.4664741440123022,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s7|L500": {
+   "nrmse": 1.783970102482321,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s7|L1000": {
+   "nrmse": 1.3334732557173614,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s7|L2000": {
+   "nrmse": 1.1383624857332038,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s7|L4000": {
+   "nrmse": 0.8021649114077549,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s7|L8000": {
+   "nrmse": 0.7554300703169483,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s7|L16000": {
+   "nrmse": 0.3432633209727495,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s8|L500": {
+   "nrmse": 1.677510474012925,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s8|L1000": {
+   "nrmse": 1.6515776419165846,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s8|L2000": {
+   "nrmse": 2.0881675342677553,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s8|L4000": {
+   "nrmse": 2.072576210809788,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s8|L8000": {
+   "nrmse": 0.6229758697658133,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s8|L16000": {
+   "nrmse": 0.37738651777708077,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s9|L500": {
+   "nrmse": 1.0413150994235127,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s9|L1000": {
+   "nrmse": 1.0485182172722547,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s9|L2000": {
+   "nrmse": 1.3100369402524454,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s9|L4000": {
+   "nrmse": 1.7291018594637921,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s9|L8000": {
+   "nrmse": 0.8172290707681023,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_fuite|s9|L16000": {
+   "nrmse": 0.3965316033461643,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s0|L500": {
+   "nrmse": 0.8519939864725712,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s0|L1000": {
+   "nrmse": 0.6800534334079411,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s0|L2000": {
+   "nrmse": 0.9575797616669351,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s0|L4000": {
+   "nrmse": 0.7492290827256495,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s0|L8000": {
+   "nrmse": 0.9681801968813573,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s0|L16000": {
+   "nrmse": 0.48267341202351266,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s1|L500": {
+   "nrmse": 1.0769057454166626,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s1|L1000": {
+   "nrmse": 0.9161926387579574,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s1|L2000": {
+   "nrmse": 1.0555732753852236,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s1|L4000": {
+   "nrmse": 0.977264668323504,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s1|L8000": {
+   "nrmse": 1.027956575678232,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s1|L16000": {
+   "nrmse": 0.4996731317347399,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s2|L500": {
+   "nrmse": 1.0847524829128106,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s2|L1000": {
+   "nrmse": 0.8949568618848086,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s2|L2000": {
+   "nrmse": 1.0013503926278302,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s2|L4000": {
+   "nrmse": 1.1088912230633157,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s2|L8000": {
+   "nrmse": 0.9372848249458481,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s2|L16000": {
+   "nrmse": 0.4785524646936377,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s3|L500": {
+   "nrmse": 1.4775376244703435,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s3|L1000": {
+   "nrmse": 1.2524243265445663,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s3|L2000": {
+   "nrmse": 1.2915191666411059,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s3|L4000": {
+   "nrmse": 1.4445025619877834,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s3|L8000": {
+   "nrmse": 1.0407390765994953,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s3|L16000": {
+   "nrmse": 0.5217605210228468,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s4|L500": {
+   "nrmse": 1.3381529477112808,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s4|L1000": {
+   "nrmse": 1.6602473475842316,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s4|L2000": {
+   "nrmse": 1.6560387164956167,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s4|L4000": {
+   "nrmse": 2.126065440739421,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s4|L8000": {
+   "nrmse": 1.3364810377229543,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s4|L16000": {
+   "nrmse": 0.4065336692781074,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s5|L500": {
+   "nrmse": 3.5490733497702927,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s5|L1000": {
+   "nrmse": 3.5254448386727075,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s5|L2000": {
+   "nrmse": 3.597481870517967,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s5|L4000": {
+   "nrmse": 3.9225256827714703,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s5|L8000": {
+   "nrmse": 1.0991199247665944,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s5|L16000": {
+   "nrmse": 0.44381281045112814,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s6|L500": {
+   "nrmse": 2.9883141173697356,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s6|L1000": {
+   "nrmse": 2.242193498254955,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s6|L2000": {
+   "nrmse": 3.889155467748827,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s6|L4000": {
+   "nrmse": 2.938461961989538,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s6|L8000": {
+   "nrmse": 1.5644078787800848,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s6|L16000": {
+   "nrmse": 0.5042854142356297,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s7|L500": {
+   "nrmse": 1.6746046411503916,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s7|L1000": {
+   "nrmse": 7.172652027376783,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s7|L2000": {
+   "nrmse": 6.858500165765348,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s7|L4000": {
+   "nrmse": 5.169789918436204,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s7|L8000": {
+   "nrmse": 1.5505258782038613,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s7|L16000": {
+   "nrmse": 0.5085513278629592,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s8|L500": {
+   "nrmse": 4.498046294868831,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s8|L1000": {
+   "nrmse": 4.151107717360407,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s8|L2000": {
+   "nrmse": 4.845048463835062,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s8|L4000": {
+   "nrmse": 2.7737260291429195,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s8|L8000": {
+   "nrmse": 1.458056281719741,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s8|L16000": {
+   "nrmse": 0.5481254816091647,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s9|L500": {
+   "nrmse": 0.9303033003632252,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s9|L1000": {
+   "nrmse": 0.6893341519958096,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s9|L2000": {
+   "nrmse": 0.799678229535705,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s9|L4000": {
+   "nrmse": 1.1221666948270925,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s9|L8000": {
+   "nrmse": 1.0223403095276962,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|dts|s9|L16000": {
+   "nrmse": 0.5271250686028122,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s0|L500": {
+   "nrmse": 0.532447219717721,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s0|L1000": {
+   "nrmse": 0.4888266523723336,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s0|L2000": {
+   "nrmse": 0.4144934798270462,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s0|L4000": {
+   "nrmse": 0.35680680352690636,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s0|L8000": {
+   "nrmse": 0.33971234167537195,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s0|L16000": {
+   "nrmse": 0.23610212657751728,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s1|L500": {
+   "nrmse": 0.3440842480216647,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s1|L1000": {
+   "nrmse": 1.003815406199264,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s1|L2000": {
+   "nrmse": 0.7144520082527005,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s1|L4000": {
+   "nrmse": 0.335666945357943,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s1|L8000": {
+   "nrmse": 0.25275642947980925,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s1|L16000": {
+   "nrmse": 0.15505630541211976,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s2|L500": {
+   "nrmse": 0.5660568435013529,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s2|L1000": {
+   "nrmse": 0.5026811886419568,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s2|L2000": {
+   "nrmse": 1.799362176646908,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s2|L4000": {
+   "nrmse": 0.5168639887198334,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s2|L8000": {
+   "nrmse": 0.3357185997079048,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s2|L16000": {
+   "nrmse": 0.25235682334350074,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s3|L500": {
+   "nrmse": 0.3178411911537036,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s3|L1000": {
+   "nrmse": 0.31317014614759325,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s3|L2000": {
+   "nrmse": 0.31208392536133095,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s3|L4000": {
+   "nrmse": 0.29834940356345796,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s3|L8000": {
+   "nrmse": 0.17623705006124882,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s3|L16000": {
+   "nrmse": 0.11302949645661145,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s4|L500": {
+   "nrmse": 0.8261421704411984,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s4|L1000": {
+   "nrmse": 1.1098929519730552,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s4|L2000": {
+   "nrmse": 0.8180342010537681,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s4|L4000": {
+   "nrmse": 0.5907036794271224,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s4|L8000": {
+   "nrmse": 0.3923097830780699,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s4|L16000": {
+   "nrmse": 0.20330474707401733,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s5|L500": {
+   "nrmse": 0.3967115258174986,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s5|L1000": {
+   "nrmse": 0.36858558372139383,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s5|L2000": {
+   "nrmse": 0.35463657717129166,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s5|L4000": {
+   "nrmse": 0.38257726235116574,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s5|L8000": {
+   "nrmse": 0.26685056001528557,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s5|L16000": {
+   "nrmse": 0.17535509357688397,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s6|L500": {
+   "nrmse": 0.34315041935660406,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s6|L1000": {
+   "nrmse": 0.33131362880264487,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s6|L2000": {
+   "nrmse": 0.31754121376203936,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s6|L4000": {
+   "nrmse": 0.3084407665790803,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s6|L8000": {
+   "nrmse": 0.2292600220662846,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s6|L16000": {
+   "nrmse": 0.16711785105945362,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s7|L500": {
+   "nrmse": 0.5640097963465828,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s7|L1000": {
+   "nrmse": 0.8939054207016195,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s7|L2000": {
+   "nrmse": 0.6756568623317202,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s7|L4000": {
+   "nrmse": 0.3791732215345119,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s7|L8000": {
+   "nrmse": 0.22226474892124606,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s7|L16000": {
+   "nrmse": 0.1734735785888802,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s8|L500": {
+   "nrmse": 0.7945631721237603,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s8|L1000": {
+   "nrmse": 0.814842415576456,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s8|L2000": {
+   "nrmse": 0.6842475767098042,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s8|L4000": {
+   "nrmse": 0.37986214121980405,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s8|L8000": {
+   "nrmse": 0.26490307560124865,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s8|L16000": {
+   "nrmse": 0.29023672841050796,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s9|L500": {
+   "nrmse": 0.352940794575036,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s9|L1000": {
+   "nrmse": 0.45125059038159315,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s9|L2000": {
+   "nrmse": 0.48157428551284587,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s9|L4000": {
+   "nrmse": 0.40110628293660533,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s9|L8000": {
+   "nrmse": 0.2544218835489315,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_fuite|s9|L16000": {
+   "nrmse": 0.19213492547535066,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s0|L500": {
+   "nrmse": 0.8237211752776196,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s0|L1000": {
+   "nrmse": 0.875851701076643,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s0|L2000": {
+   "nrmse": 0.5596434749861204,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s0|L4000": {
+   "nrmse": 0.33257152942820534,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s0|L8000": {
+   "nrmse": 0.20573954644044085,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s0|L16000": {
+   "nrmse": 0.1583574446098765,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s1|L500": {
+   "nrmse": 0.39226409463785067,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s1|L1000": {
+   "nrmse": 0.3547109343233438,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s1|L2000": {
+   "nrmse": 0.3170274891800787,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s1|L4000": {
+   "nrmse": 0.316352999982372,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s1|L8000": {
+   "nrmse": 0.2739274462502748,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s1|L16000": {
+   "nrmse": 0.20683327297890278,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s2|L500": {
+   "nrmse": 0.8264348028305117,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s2|L1000": {
+   "nrmse": 0.5700887429388856,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s2|L2000": {
+   "nrmse": 0.7042175923000329,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s2|L4000": {
+   "nrmse": 0.38378283204325025,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s2|L8000": {
+   "nrmse": 0.2439113555320784,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s2|L16000": {
+   "nrmse": 0.20778158356055387,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s3|L500": {
+   "nrmse": 0.9040575430218392,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s3|L1000": {
+   "nrmse": 0.6003005233617931,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s3|L2000": {
+   "nrmse": 0.6428407144678557,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s3|L4000": {
+   "nrmse": 0.3393874899980656,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s3|L8000": {
+   "nrmse": 0.22551594821201754,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s3|L16000": {
+   "nrmse": 0.20261579011025446,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s4|L500": {
+   "nrmse": 0.4006232374752756,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s4|L1000": {
+   "nrmse": 0.3888159399072956,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s4|L2000": {
+   "nrmse": 0.37783149555380086,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s4|L4000": {
+   "nrmse": 0.33975044977732355,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s4|L8000": {
+   "nrmse": 0.2846176579430239,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s4|L16000": {
+   "nrmse": 0.1838532690516718,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s5|L500": {
+   "nrmse": 0.4184285895457923,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s5|L1000": {
+   "nrmse": 0.3702048416631032,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s5|L2000": {
+   "nrmse": 0.348081268767866,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s5|L4000": {
+   "nrmse": 0.33347085803319426,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s5|L8000": {
+   "nrmse": 0.2979983808604531,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s5|L16000": {
+   "nrmse": 0.21488220854819734,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s6|L500": {
+   "nrmse": 0.4439355827192038,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s6|L1000": {
+   "nrmse": 0.44341056723829136,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s6|L2000": {
+   "nrmse": 0.8613590878675047,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s6|L4000": {
+   "nrmse": 0.3921828283687586,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s6|L8000": {
+   "nrmse": 0.22810412464846266,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s6|L16000": {
+   "nrmse": 0.17498559186677062,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s7|L500": {
+   "nrmse": 1.253052725396077,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s7|L1000": {
+   "nrmse": 1.641037646787682,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s7|L2000": {
+   "nrmse": 1.4002668303935994,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s7|L4000": {
+   "nrmse": 0.9127521484347252,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s7|L8000": {
+   "nrmse": 0.4990444700634348,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s7|L16000": {
+   "nrmse": 0.23319941244187836,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s8|L500": {
+   "nrmse": 0.5728957093635167,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s8|L1000": {
+   "nrmse": 0.5405733115921445,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s8|L2000": {
+   "nrmse": 0.5353306380608223,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s8|L4000": {
+   "nrmse": 0.32229340429867664,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s8|L8000": {
+   "nrmse": 0.2565098756166581,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s8|L16000": {
+   "nrmse": 0.1798801235334728,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s9|L500": {
+   "nrmse": 0.3504419867184749,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s9|L1000": {
+   "nrmse": 0.336593663669825,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s9|L2000": {
+   "nrmse": 0.32776453360024044,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s9|L4000": {
+   "nrmse": 0.31324803388938316,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s9|L8000": {
+   "nrmse": 0.2820350959632484,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|tenseur_sans_fuite|s9|L16000": {
+   "nrmse": 0.19516810414340044,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s0|L500": {
+   "nrmse": 0.35782935639034663,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s0|L1000": {
+   "nrmse": 0.3516699759948462,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s0|L2000": {
+   "nrmse": 0.3505400837412325,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s0|L4000": {
+   "nrmse": 0.3350246617550878,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s0|L8000": {
+   "nrmse": 0.2961545705453528,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s0|L16000": {
+   "nrmse": 0.23261157211529568,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s1|L500": {
+   "nrmse": 0.4013797889976511,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s1|L1000": {
+   "nrmse": 0.3716051701392046,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s1|L2000": {
+   "nrmse": 0.35058216967594186,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s1|L4000": {
+   "nrmse": 0.35473804637436734,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s1|L8000": {
+   "nrmse": 0.30216267332184255,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s1|L16000": {
+   "nrmse": 0.2351065486646804,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s2|L500": {
+   "nrmse": 0.3744550662080814,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s2|L1000": {
+   "nrmse": 0.3815405395316588,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s2|L2000": {
+   "nrmse": 0.40020639866666735,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s2|L4000": {
+   "nrmse": 0.35577869067223283,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s2|L8000": {
+   "nrmse": 0.30267752181873114,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s2|L16000": {
+   "nrmse": 0.23084504161319655,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s3|L500": {
+   "nrmse": 0.3706146141978449,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s3|L1000": {
+   "nrmse": 0.3696659957909822,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s3|L2000": {
+   "nrmse": 0.3543638408245622,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s3|L4000": {
+   "nrmse": 0.33921315350975356,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s3|L8000": {
+   "nrmse": 0.30315632431586786,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s3|L16000": {
+   "nrmse": 0.2351160515007154,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s4|L500": {
+   "nrmse": 0.369966948626834,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s4|L1000": {
+   "nrmse": 0.3533237622783848,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s4|L2000": {
+   "nrmse": 0.3496708476683732,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s4|L4000": {
+   "nrmse": 0.3288268416562983,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s4|L8000": {
+   "nrmse": 0.2957133249842887,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s4|L16000": {
+   "nrmse": 0.23196379986503118,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s5|L500": {
+   "nrmse": 0.37587190775559004,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s5|L1000": {
+   "nrmse": 0.38142672453435583,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s5|L2000": {
+   "nrmse": 0.3703812002761439,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s5|L4000": {
+   "nrmse": 0.3608651783993667,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s5|L8000": {
+   "nrmse": 0.29483250095651575,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s5|L16000": {
+   "nrmse": 0.23316830590269896,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s6|L500": {
+   "nrmse": 0.3740389362999173,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s6|L1000": {
+   "nrmse": 0.3666727941170539,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s6|L2000": {
+   "nrmse": 0.3599078886297326,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s6|L4000": {
+   "nrmse": 0.3410855312463329,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s6|L8000": {
+   "nrmse": 0.2966673137772344,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s6|L16000": {
+   "nrmse": 0.22904276024701867,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s7|L500": {
+   "nrmse": 0.36033016259935235,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s7|L1000": {
+   "nrmse": 0.35600256141640074,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s7|L2000": {
+   "nrmse": 0.3550933343713806,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s7|L4000": {
+   "nrmse": 0.3389355782573181,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s7|L8000": {
+   "nrmse": 0.3039419774039303,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s7|L16000": {
+   "nrmse": 0.2357069237125272,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s8|L500": {
+   "nrmse": 0.37626133961961045,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s8|L1000": {
+   "nrmse": 0.37379216739177906,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s8|L2000": {
+   "nrmse": 0.35166111306507186,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s8|L4000": {
+   "nrmse": 0.34491297794837705,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s8|L8000": {
+   "nrmse": 0.2932490810479099,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s8|L16000": {
+   "nrmse": 0.22753602446269725,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s9|L500": {
+   "nrmse": 0.35491925953256825,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s9|L1000": {
+   "nrmse": 0.3539309367187213,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s9|L2000": {
+   "nrmse": 0.35036046153628236,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s9|L4000": {
+   "nrmse": 0.33167558065410635,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s9|L8000": {
+   "nrmse": 0.2975305177127827,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|recette|s9|L16000": {
+   "nrmse": 0.23422664653372022,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s0|L500": {
+   "nrmse": 1.09835042384718,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s0|L1000": {
+   "nrmse": 1.3937084237292374,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s0|L2000": {
+   "nrmse": 1.4305262660788314,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s0|L4000": {
+   "nrmse": 1.4397976192417772,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s0|L8000": {
+   "nrmse": 0.5054888946818249,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s0|L16000": {
+   "nrmse": 0.2859296059219485,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s1|L500": {
+   "nrmse": 1.3445904071676724,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s1|L1000": {
+   "nrmse": 1.6098094318639093,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s1|L2000": {
+   "nrmse": 1.8624149870627975,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s1|L4000": {
+   "nrmse": 0.7666429889323852,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s1|L8000": {
+   "nrmse": 0.5862122401545361,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s1|L16000": {
+   "nrmse": 0.3235534631020446,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s2|L500": {
+   "nrmse": 0.3574301070542548,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s2|L1000": {
+   "nrmse": 0.43935028161658324,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s2|L2000": {
+   "nrmse": 0.45959773675238896,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s2|L4000": {
+   "nrmse": 0.3563388945957498,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s2|L8000": {
+   "nrmse": 0.355844273546898,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s2|L16000": {
+   "nrmse": 0.3125257056273534,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s3|L500": {
+   "nrmse": 0.3833317659735475,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s3|L1000": {
+   "nrmse": 0.7259811011223455,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s3|L2000": {
+   "nrmse": 0.8260283789728348,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s3|L4000": {
+   "nrmse": 0.4594679379557807,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s3|L8000": {
+   "nrmse": 0.44648619171476917,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s3|L16000": {
+   "nrmse": 0.30876250308395486,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s4|L500": {
+   "nrmse": 0.3238384304597149,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s4|L1000": {
+   "nrmse": 0.31721383278758075,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s4|L2000": {
+   "nrmse": 0.2894226340523369,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s4|L4000": {
+   "nrmse": 0.2879384190845688,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s4|L8000": {
+   "nrmse": 0.270046449227104,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s4|L16000": {
+   "nrmse": 0.2370478640449844,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s5|L500": {
+   "nrmse": 0.6100103539309547,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s5|L1000": {
+   "nrmse": 0.7096803406305167,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s5|L2000": {
+   "nrmse": 0.568882903202792,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s5|L4000": {
+   "nrmse": 0.5632483582504398,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s5|L8000": {
+   "nrmse": 0.3507886865142868,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s5|L16000": {
+   "nrmse": 0.28333926739388365,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s6|L500": {
+   "nrmse": 1.2972151692539893,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s6|L1000": {
+   "nrmse": 2.0517218963367827,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s6|L2000": {
+   "nrmse": 2.0939509570444086,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s6|L4000": {
+   "nrmse": 0.8054155957347328,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s6|L8000": {
+   "nrmse": 0.6092558766688676,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s6|L16000": {
+   "nrmse": 0.36577851508415027,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s7|L500": {
+   "nrmse": 0.39332170072497724,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s7|L1000": {
+   "nrmse": 0.6742446726815624,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s7|L2000": {
+   "nrmse": 0.35979677288674955,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s7|L4000": {
+   "nrmse": 0.5793806299907958,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s7|L8000": {
+   "nrmse": 0.35304452528602553,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s7|L16000": {
+   "nrmse": 0.2665029241532343,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s8|L500": {
+   "nrmse": 0.8854337614692835,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s8|L1000": {
+   "nrmse": 0.9173602805323856,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s8|L2000": {
+   "nrmse": 3.546843466732327,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s8|L4000": {
+   "nrmse": 1.1221872789513632,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s8|L8000": {
+   "nrmse": 0.497346351859477,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s8|L16000": {
+   "nrmse": 0.34518650929074596,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s9|L500": {
+   "nrmse": 0.7930639406813508,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s9|L1000": {
+   "nrmse": 0.9001596135066479,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s9|L2000": {
+   "nrmse": 1.1490741299001452,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s9|L4000": {
+   "nrmse": 1.499228514999997,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s9|L8000": {
+   "nrmse": 0.4937719913116617,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|esn_entree|s9|L16000": {
+   "nrmse": 0.3556687856139803,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s0|L500": {
+   "nrmse": 0.5819971663993238,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s0|L1000": {
+   "nrmse": 0.6428253473531257,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s0|L2000": {
+   "nrmse": 0.6398654064330115,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s0|L4000": {
+   "nrmse": 0.49554264582885094,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s0|L8000": {
+   "nrmse": 0.4372069662085709,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s0|L16000": {
+   "nrmse": 0.3881196236010426,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s1|L500": {
+   "nrmse": 0.564075173378923,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s1|L1000": {
+   "nrmse": 0.6049423412927143,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s1|L2000": {
+   "nrmse": 0.5443566801248417,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s1|L4000": {
+   "nrmse": 0.4856771752921634,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s1|L8000": {
+   "nrmse": 0.4612326002361067,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s1|L16000": {
+   "nrmse": 0.38129253035776994,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s2|L500": {
+   "nrmse": 0.6778468147761293,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s2|L1000": {
+   "nrmse": 0.6999802100039614,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s2|L2000": {
+   "nrmse": 0.6818924919167154,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s2|L4000": {
+   "nrmse": 0.5147311468943089,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s2|L8000": {
+   "nrmse": 0.47866646663632917,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s2|L16000": {
+   "nrmse": 0.3909633295225439,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s3|L500": {
+   "nrmse": 0.5636148506852343,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s3|L1000": {
+   "nrmse": 0.6335346532336645,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s3|L2000": {
+   "nrmse": 0.5997049508322887,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s3|L4000": {
+   "nrmse": 0.5361005665318731,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s3|L8000": {
+   "nrmse": 0.4989385122316106,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s3|L16000": {
+   "nrmse": 0.40774886533385013,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s4|L500": {
+   "nrmse": 0.49906509440419733,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s4|L1000": {
+   "nrmse": 0.5138769666141629,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s4|L2000": {
+   "nrmse": 0.5313617149622643,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s4|L4000": {
+   "nrmse": 0.44812495659873514,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s4|L8000": {
+   "nrmse": 0.4535276973282262,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s4|L16000": {
+   "nrmse": 0.35028678156769766,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s5|L500": {
+   "nrmse": 0.7961532774338476,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s5|L1000": {
+   "nrmse": 0.8257655641020675,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s5|L2000": {
+   "nrmse": 0.819297884128052,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s5|L4000": {
+   "nrmse": 0.6252922814181382,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s5|L8000": {
+   "nrmse": 0.5528914241190401,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s5|L16000": {
+   "nrmse": 0.4069566644758315,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s6|L500": {
+   "nrmse": 0.8141671541261183,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s6|L1000": {
+   "nrmse": 0.8662997482135254,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s6|L2000": {
+   "nrmse": 0.8238040716807331,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s6|L4000": {
+   "nrmse": 0.6198244282379313,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s6|L8000": {
+   "nrmse": 0.5643006875649899,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s6|L16000": {
+   "nrmse": 0.43180425105593817,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s7|L500": {
+   "nrmse": 0.6711188121925534,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s7|L1000": {
+   "nrmse": 0.6775543696128906,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s7|L2000": {
+   "nrmse": 0.6065090694507633,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s7|L4000": {
+   "nrmse": 0.5278703730966952,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s7|L8000": {
+   "nrmse": 0.4895537952668113,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s7|L16000": {
+   "nrmse": 0.3887594688019349,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s8|L500": {
+   "nrmse": 0.7525032351179466,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s8|L1000": {
+   "nrmse": 0.779218994885722,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s8|L2000": {
+   "nrmse": 0.7871276598641234,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s8|L4000": {
+   "nrmse": 0.6031166736073671,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s8|L8000": {
+   "nrmse": 0.532847843277086,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s8|L16000": {
+   "nrmse": 0.4264159080425679,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s9|L500": {
+   "nrmse": 0.6209313561834532,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s9|L1000": {
+   "nrmse": 0.6276353079420104,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s9|L2000": {
+   "nrmse": 0.563886966511433,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s9|L4000": {
+   "nrmse": 0.5111639353349966,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s9|L8000": {
+   "nrmse": 0.46817186931940163,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|uniforme_10|s9|L16000": {
+   "nrmse": 0.3943981911311326,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s0|L500": {
+   "nrmse": 0.37436073444033413,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s0|L1000": {
+   "nrmse": 0.3761243916936744,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s0|L2000": {
+   "nrmse": 0.3654255398024594,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s0|L4000": {
+   "nrmse": 0.35239818338064033,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s0|L8000": {
+   "nrmse": 0.3430027938116409,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s0|L16000": {
+   "nrmse": 0.3217739646891504,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s1|L500": {
+   "nrmse": 0.37436073444033413,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s1|L1000": {
+   "nrmse": 0.3761243916936744,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s1|L2000": {
+   "nrmse": 0.3654255398024594,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s1|L4000": {
+   "nrmse": 0.35239818338064033,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s1|L8000": {
+   "nrmse": 0.3430027938116409,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s1|L16000": {
+   "nrmse": 0.3217739646891504,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s2|L500": {
+   "nrmse": 0.37436073444033413,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s2|L1000": {
+   "nrmse": 0.3761243916936744,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s2|L2000": {
+   "nrmse": 0.3654255398024594,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s2|L4000": {
+   "nrmse": 0.35239818338064033,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s2|L8000": {
+   "nrmse": 0.3430027938116409,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s2|L16000": {
+   "nrmse": 0.3217739646891504,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s3|L500": {
+   "nrmse": 0.37436073444033413,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s3|L1000": {
+   "nrmse": 0.3761243916936744,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s3|L2000": {
+   "nrmse": 0.3654255398024594,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s3|L4000": {
+   "nrmse": 0.35239818338064033,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s3|L8000": {
+   "nrmse": 0.3430027938116409,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s3|L16000": {
+   "nrmse": 0.3217739646891504,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s4|L500": {
+   "nrmse": 0.37436073444033413,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s4|L1000": {
+   "nrmse": 0.3761243916936744,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s4|L2000": {
+   "nrmse": 0.3654255398024594,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s4|L4000": {
+   "nrmse": 0.35239818338064033,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s4|L8000": {
+   "nrmse": 0.3430027938116409,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s4|L16000": {
+   "nrmse": 0.3217739646891504,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s5|L500": {
+   "nrmse": 0.37436073444033413,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s5|L1000": {
+   "nrmse": 0.3761243916936744,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s5|L2000": {
+   "nrmse": 0.3654255398024594,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s5|L4000": {
+   "nrmse": 0.35239818338064033,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s5|L8000": {
+   "nrmse": 0.3430027938116409,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s5|L16000": {
+   "nrmse": 0.3217739646891504,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s6|L500": {
+   "nrmse": 0.37436073444033413,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s6|L1000": {
+   "nrmse": 0.3761243916936744,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s6|L2000": {
+   "nrmse": 0.3654255398024594,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s6|L4000": {
+   "nrmse": 0.35239818338064033,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s6|L8000": {
+   "nrmse": 0.3430027938116409,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s6|L16000": {
+   "nrmse": 0.3217739646891504,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s7|L500": {
+   "nrmse": 0.37436073444033413,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s7|L1000": {
+   "nrmse": 0.3761243916936744,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s7|L2000": {
+   "nrmse": 0.3654255398024594,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s7|L4000": {
+   "nrmse": 0.35239818338064033,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s7|L8000": {
+   "nrmse": 0.3430027938116409,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s7|L16000": {
+   "nrmse": 0.3217739646891504,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s8|L500": {
+   "nrmse": 0.37436073444033413,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s8|L1000": {
+   "nrmse": 0.3761243916936744,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s8|L2000": {
+   "nrmse": 0.3654255398024594,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s8|L4000": {
+   "nrmse": 0.35239818338064033,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s8|L8000": {
+   "nrmse": 0.3430027938116409,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s8|L16000": {
+   "nrmse": 0.3217739646891504,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s9|L500": {
+   "nrmse": 0.37436073444033413,
+   "L_effectif": 500,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s9|L1000": {
+   "nrmse": 0.3761243916936744,
+   "L_effectif": 1000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s9|L2000": {
+   "nrmse": 0.3654255398024594,
+   "L_effectif": 2000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s9|L4000": {
+   "nrmse": 0.35239818338064033,
+   "L_effectif": 4000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s9|L8000": {
+   "nrmse": 0.3430027938116409,
+   "L_effectif": 8000,
+   "proto": "apprentissage_2"
+  },
+  "silverbox|ngrc|s9|L16000": {
+   "nrmse": 0.3217739646891504,
+   "L_effectif": 16000,
+   "proto": "apprentissage_2"
+  }
+ },
+ "meta": {
+  "proto": "apprentissage_2",
+  "longueurs": {
+   "narma30": [
+    250,
+    500,
+    1000,
+    2000,
+    4000,
+    8000,
+    16000,
+    32000
+   ],
+   "silverbox": [
+    500,
+    1000,
+    2000,
+    4000,
+    8000,
+    16000
+   ]
+  },
+  "modeles": "gel\u00e9s, partie 13 protocole 14.1",
+  "lecture": "\u03bb sur les 20 % finaux de chaque tron\u00e7on [wash ; wash+L]",
+  "test": "NARMA-30 : 1 000 derniers pas d'une r\u00e9alisation neuve (seed 600 + s) ; Silverbox : bloc de test du protocole ; identique pour toutes les longueurs",
+  "smoke": false
+ }
+}

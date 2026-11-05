@@ -1,0 +1,358 @@
+{
+ "cells": {
+  "etth1_h24|recette_corrigee|s0": {
+   "test": 0.6886570263865405,
+   "val": 0.6793428961755043,
+   "cfg": {
+    "rho": 1.0322710601954772,
+    "fuite": 0.9297444878241846,
+    "echelle": 0.05618287929852267,
+    "S": [
+     1,
+     2,
+     48,
+     96,
+     144
+    ],
+    "kind": "perm",
+    "paire": null,
+    "origine": "sauts K=5"
+   },
+   "proto": "reel_corrige_explo"
+  },
+  "etth1_h24|esn_entree_corrigee|s0": {
+   "test": 0.6902301069617416,
+   "val": 0.7552251112684524,
+   "cfg": {
+    "rho": 0.807247424737296,
+    "echelle": 0.07583624844024181,
+    "S": [
+     1
+    ],
+    "fuite": 0.13697274840731333
+   },
+   "proto": "reel_corrige_explo"
+  },
+  "etth1_h24|recette_corrigee|s1": {
+   "test": 0.6850736546638394,
+   "val": 0.683153842849869,
+   "cfg": {
+    "rho": 1.0322710601954772,
+    "fuite": 0.9297444878241846,
+    "echelle": 0.05618287929852267,
+    "S": [
+     1,
+     2,
+     48,
+     96,
+     144
+    ],
+    "kind": "perm",
+    "paire": null,
+    "origine": "sauts K=5"
+   },
+   "proto": "reel_corrige_explo"
+  },
+  "etth1_h24|esn_entree_corrigee|s1": {
+   "test": 0.6919404421368285,
+   "val": 0.7759725453829736,
+   "cfg": {
+    "rho": 0.6685842693507273,
+    "echelle": 0.07521606079464915,
+    "S": [
+     1
+    ],
+    "fuite": 0.09685185442288109
+   },
+   "proto": "reel_corrige_explo"
+  },
+  "etth1_h24|recette_corrigee|s2": {
+   "test": 0.6875219059634285,
+   "val": 0.6820871967373925,
+   "cfg": {
+    "rho": 1.0322710601954772,
+    "fuite": 0.9297444878241846,
+    "echelle": 0.05618287929852267,
+    "S": [
+     1,
+     2,
+     48,
+     96,
+     144
+    ],
+    "kind": "perm",
+    "paire": null,
+    "origine": "sauts K=5"
+   },
+   "proto": "reel_corrige_explo"
+  },
+  "etth1_h24|esn_entree_corrigee|s2": {
+   "test": 0.6967275086668261,
+   "val": 0.7876828316327127,
+   "cfg": {
+    "rho": 0.6739406280288454,
+    "echelle": 0.07407342490133544,
+    "S": [
+     1
+    ],
+    "fuite": 0.12304602227967269
+   },
+   "proto": "reel_corrige_explo"
+  },
+  "etth1_h24|recette_corrigee|s3": {
+   "test": 0.6861123389416532,
+   "val": 0.6776746929226494,
+   "cfg": {
+    "rho": 1.0322710601954772,
+    "fuite": 0.9297444878241846,
+    "echelle": 0.05618287929852267,
+    "S": [
+     1,
+     2,
+     48,
+     96,
+     144
+    ],
+    "kind": "perm",
+    "paire": null,
+    "origine": "sauts K=5"
+   },
+   "proto": "reel_corrige_explo"
+  },
+  "etth1_h24|esn_entree_corrigee|s3": {
+   "test": 0.6936329667143056,
+   "val": 0.7059025055471706,
+   "cfg": {
+    "rho": 0.9921804238069736,
+    "echelle": 0.0907737287250522,
+    "S": [
+     1
+    ],
+    "fuite": 0.30653823199618463
+   },
+   "proto": "reel_corrige_explo"
+  },
+  "etth1_h24|recette_corrigee|s4": {
+   "test": 0.6880732044432144,
+   "val": 0.6802336189567176,
+   "cfg": {
+    "rho": 1.0322710601954772,
+    "fuite": 0.9297444878241846,
+    "echelle": 0.05618287929852267,
+    "S": [
+     1,
+     2,
+     48,
+     96,
+     144
+    ],
+    "kind": "perm",
+    "paire": null,
+    "origine": "sauts K=5"
+   },
+   "proto": "reel_corrige_explo"
+  },
+  "etth1_h24|esn_entree_corrigee|s4": {
+   "test": 0.6884044157540564,
+   "val": 0.7691283811423723,
+   "cfg": {
+    "rho": 0.9547163217033869,
+    "echelle": 0.053713121646280323,
+    "S": [
+     1
+    ],
+    "fuite": 0.19774379809642706
+   },
+   "proto": "reel_corrige_explo"
+  },
+  "etth1_h24|recette_corrigee|s5": {
+   "test": 0.6875122196468544,
+   "val": 0.6814443448690471,
+   "cfg": {
+    "rho": 1.0322710601954772,
+    "fuite": 0.9297444878241846,
+    "echelle": 0.05618287929852267,
+    "S": [
+     1,
+     2,
+     48,
+     96,
+     144
+    ],
+    "kind": "perm",
+    "paire": null,
+    "origine": "sauts K=5"
+   },
+   "proto": "reel_corrige_explo"
+  },
+  "etth1_h24|esn_entree_corrigee|s5": {
+   "test": 0.6933521872657692,
+   "val": 0.7716136561782603,
+   "cfg": {
+    "rho": 0.7636555812300103,
+    "echelle": 0.054502823019114785,
+    "S": [
+     1
+    ],
+    "fuite": 0.146363875585649
+   },
+   "proto": "reel_corrige_explo"
+  },
+  "etth1_h24|recette_corrigee|s6": {
+   "test": 0.6860603361466255,
+   "val": 0.6864514436556188,
+   "cfg": {
+    "rho": 1.0322710601954772,
+    "fuite": 0.9297444878241846,
+    "echelle": 0.05618287929852267,
+    "S": [
+     1,
+     2,
+     48,
+     96,
+     144
+    ],
+    "kind": "perm",
+    "paire": null,
+    "origine": "sauts K=5"
+   },
+   "proto": "reel_corrige_explo"
+  },
+  "etth1_h24|esn_entree_corrigee|s6": {
+   "test": 0.7038223136015931,
+   "val": 0.8034877337351654,
+   "cfg": {
+    "rho": 0.8626603475551577,
+    "echelle": 0.07924601676746525,
+    "S": [
+     1
+    ],
+    "fuite": 0.4893486114035855
+   },
+   "proto": "reel_corrige_explo"
+  },
+  "etth1_h24|recette_corrigee|s7": {
+   "test": 0.6869860586993803,
+   "val": 0.6816569398702066,
+   "cfg": {
+    "rho": 1.0322710601954772,
+    "fuite": 0.9297444878241846,
+    "echelle": 0.05618287929852267,
+    "S": [
+     1,
+     2,
+     48,
+     96,
+     144
+    ],
+    "kind": "perm",
+    "paire": null,
+    "origine": "sauts K=5"
+   },
+   "proto": "reel_corrige_explo"
+  },
+  "etth1_h24|esn_entree_corrigee|s7": {
+   "test": 0.6875377136531521,
+   "val": 0.7304272988352996,
+   "cfg": {
+    "rho": 0.4986381638928168,
+    "echelle": 0.10375405869139664,
+    "S": [
+     1
+    ],
+    "fuite": 0.05176741402138388
+   },
+   "proto": "reel_corrige_explo"
+  },
+  "etth1_h24|recette_corrigee|s8": {
+   "test": 0.6866556984246462,
+   "val": 0.6813286726185285,
+   "cfg": {
+    "rho": 1.0322710601954772,
+    "fuite": 0.9297444878241846,
+    "echelle": 0.05618287929852267,
+    "S": [
+     1,
+     2,
+     48,
+     96,
+     144
+    ],
+    "kind": "perm",
+    "paire": null,
+    "origine": "sauts K=5"
+   },
+   "proto": "reel_corrige_explo"
+  },
+  "etth1_h24|esn_entree_corrigee|s8": {
+   "test": 0.6900089817036832,
+   "val": 0.7107651065723813,
+   "cfg": {
+    "rho": 0.7784551134318042,
+    "echelle": 0.054201592589482095,
+    "S": [
+     1
+    ],
+    "fuite": 0.1229998635040592
+   },
+   "proto": "reel_corrige_explo"
+  },
+  "etth1_h24|recette_corrigee|s9": {
+   "test": 0.6866436899278976,
+   "val": 0.6858623382108456,
+   "cfg": {
+    "rho": 1.0322710601954772,
+    "fuite": 0.9297444878241846,
+    "echelle": 0.05618287929852267,
+    "S": [
+     1,
+     2,
+     48,
+     96,
+     144
+    ],
+    "kind": "perm",
+    "paire": null,
+    "origine": "sauts K=5"
+   },
+   "proto": "reel_corrige_explo"
+  },
+  "etth1_h24|esn_entree_corrigee|s9": {
+   "test": 0.6926881226360473,
+   "val": 0.7857239254000355,
+   "cfg": {
+    "rho": 0.8541842085492897,
+    "echelle": 0.05362887229986591,
+    "S": [
+     1
+    ],
+    "fuite": 0.25733904308870026
+   },
+   "proto": "reel_corrige_explo"
+  }
+ },
+ "meta": {
+  "proto": "reel_corrige_explo",
+  "periode": 48,
+  "val_periode": 0.6603019993527447,
+  "S": {
+   "sauts K=2": [
+    1,
+    48
+   ],
+   "sauts K=3": [
+    1,
+    48,
+    96
+   ],
+   "sauts K=5": [
+    1,
+    2,
+    48,
+    96,
+    144
+   ]
+  },
+  "exploratoire": true
+ }
+}

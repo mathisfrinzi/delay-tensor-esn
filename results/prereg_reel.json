@@ -1,0 +1,116 @@
+{
+ "proto": "reel_1",
+ "date": "2026-11-02 21:14:25",
+ "neff_seuil": 6.0,
+ "regle": "prévision « retards_devant » si N_eff ≤ seuil, sinon « pas_de_victoire_prevue »",
+ "taches": {
+  "etth1_h24": {
+   "N_eff": 2.1404909618152534,
+   "retards_importants": [
+    1,
+    2,
+    199,
+    200,
+    73,
+    198
+   ],
+   "S_calcule": {
+    "K2": [
+     1,
+     22
+    ],
+    "K3": [
+     1,
+     11,
+     47
+    ]
+   },
+   "prevision": "retards_devant",
+   "erreur_prédicteur_lags_val": 0.6255204213432302,
+   "serie": "460f9659f427e3f8",
+   "T": 17396,
+   "tr_end": 14516
+  },
+  "etth2_h24": {
+   "N_eff": 2.0377092325073454,
+   "retards_importants": [
+    1,
+    2,
+    199,
+    200,
+    73,
+    72
+   ],
+   "S_calcule": {
+    "K2": [
+     1,
+     18
+    ],
+    "K3": [
+     1,
+     2,
+     22
+    ]
+   },
+   "prevision": "retards_devant",
+   "erreur_prédicteur_lags_val": 0.5354158299090331,
+   "serie": "3dc2b6dc322f964c",
+   "T": 17396,
+   "tr_end": 14516
+  },
+  "sunspots_h12": {
+   "N_eff": 8.259176925393074,
+   "retards_importants": [
+    1,
+    126,
+    135,
+    35,
+    149,
+    101
+   ],
+   "S_calcule": {
+    "K2": [
+     1,
+     15
+    ],
+    "K3": [
+     1,
+     8,
+     101
+    ]
+   },
+   "prevision": "pas_de_victoire_prevue",
+   "erreur_prédicteur_lags_val": 0.6369374885771489,
+   "serie": "65d41ca35e0d13f5",
+   "T": 2808,
+   "tr_end": 2208
+  },
+  "melbourne_h7": {
+   "N_eff": 14.793178914571827,
+   "retards_importants": [
+    24,
+    21,
+    19,
+    15,
+    13,
+    29
+   ],
+   "S_calcule": {
+    "K2": [
+     1,
+     6
+    ],
+    "K3": [
+     1,
+     5,
+     19
+    ]
+   },
+   "prevision": "pas_de_victoire_prevue",
+   "erreur_prédicteur_lags_val": 0.841130520440709,
+   "serie": "3d14be42c0c70738",
+   "T": 3643,
+   "tr_end": 2913
+  }
+ }
+}
