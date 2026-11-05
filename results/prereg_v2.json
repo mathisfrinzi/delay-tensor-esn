@@ -1,0 +1,64 @@
+{
+ "proto": "reel_v2",
+ "date": "2026-11-03 07:41:34",
+ "gain_seuil": 0.95,
+ "regle": "retards_devant si val(P*)/val({0,1,2}) <= seuil, sinon pas_de_victoire_prevue",
+ "predictions_secondaires": {
+  "vs_dts": "la recette ne bat pas DTS-ESN (p<0.05)",
+  "vs_ridge": "la recette ne bat pas le ridge sur retards {0,1,2}+multiples de P*"
+ },
+ "taches": {
+  "electricite_h24": {
+   "P_etoile": 24,
+   "val_P": 0.12426737380710275,
+   "val_012": 0.12787457594556856,
+   "rapport": 0.9717910920775896,
+   "S": {
+    "sauts K=2": [
+     1,
+     24
+    ],
+    "sauts K=3": [
+     1,
+     24,
+     72
+    ],
+    "sauts K=5": [
+     1,
+     2,
+     24,
+     72,
+     96
+    ]
+   },
+   "serie": "6c0e582c70d56d29",
+   "prevision": "pas_de_victoire_prevue"
+  },
+  "trafic_h24": {
+   "P_etoile": 4,
+   "val_P": 0.20169293309690228,
+   "val_012": 0.44339825489472606,
+   "rapport": 0.45487985320282615,
+   "S": {
+    "sauts K=2": [
+     1,
+     16
+    ],
+    "sauts K=3": [
+     1,
+     12,
+     28
+    ],
+    "sauts K=5": [
+     1,
+     2,
+     12,
+     28,
+     48
+    ]
+   },
+   "serie": "ee19b32519663d1a",
+   "prevision": "retards_devant"
+  }
+ }
+}

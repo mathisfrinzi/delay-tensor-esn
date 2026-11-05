@@ -1,0 +1,142 @@
+{
+ "proto": "reel_v3",
+ "date": "2026-11-03 13:49:00",
+ "gain_seuil": 0.95,
+ "regle": "retards_devant si val(P*)/val({0,1,2}) <= seuil, sinon pas_de_victoire_prevue",
+ "predictions_secondaires": {
+  "vs_dts": "la recette ne bat pas DTS-ESN (p<0.05)",
+  "vs_ridge": "la recette ne bat pas le ridge sur retards {0,1,2}+multiples de P*"
+ },
+ "taches": {
+  "energie_charge_h24": {
+   "P_etoile": 2,
+   "val_P": 0.6161506961310674,
+   "val_012": 0.733515786031788,
+   "rapport": 0.8399965043211294,
+   "S": {
+    "sauts K=2": [
+     1,
+     14
+    ],
+    "sauts K=3": [
+     1,
+     10,
+     34
+    ],
+    "sauts K=5": [
+     1,
+     8,
+     10,
+     34,
+     40
+    ]
+   },
+   "serie": "9f072ce12caf29eb",
+   "prevision": "retards_devant"
+  },
+  "energie_prix_h24": {
+   "P_etoile": 24,
+   "val_P": 0.5630694094795973,
+   "val_012": 0.7794601685596563,
+   "rapport": 0.7223838140697789,
+   "S": {
+    "sauts K=2": [
+     1,
+     24
+    ],
+    "sauts K=3": [
+     1,
+     24,
+     72
+    ],
+    "sauts K=5": [
+     1,
+     2,
+     24,
+     72,
+     96
+    ]
+   },
+   "serie": "25895f0f6d21c3b0",
+   "prevision": "retards_devant"
+  },
+  "solaire_h24": {
+   "P_etoile": 32,
+   "val_P": 0.3170308904140271,
+   "val_012": 0.36663732246031266,
+   "rapport": 0.8646989026828951,
+   "S": {
+    "sauts K=2": [
+     1,
+     32
+    ],
+    "sauts K=3": [
+     1,
+     32,
+     96
+    ],
+    "sauts K=5": [
+     1,
+     2,
+     32,
+     64,
+     96
+    ]
+   },
+   "serie": "f465bb2cfcfd5e2f",
+   "prevision": "retards_devant"
+  },
+  "meteo_T_h24": {
+   "P_etoile": 73,
+   "val_P": 0.532501844537195,
+   "val_012": 0.5604493217494211,
+   "rapport": 0.9501338013489085,
+   "S": {
+    "sauts K=2": [
+     1,
+     73
+    ],
+    "sauts K=3": [
+     1,
+     2,
+     73
+    ],
+    "sauts K=5": [
+     1,
+     2,
+     3,
+     73,
+     146
+    ]
+   },
+   "serie": "9669f2d247ef2945",
+   "prevision": "pas_de_victoire_prevue"
+  },
+  "meteo_rayonnement_h24": {
+   "P_etoile": 72,
+   "val_P": 0.45102297381190987,
+   "val_012": 0.495756718570129,
+   "rapport": 0.9097667402526767,
+   "S": {
+    "sauts K=2": [
+     1,
+     72
+    ],
+    "sauts K=3": [
+     1,
+     2,
+     72
+    ],
+    "sauts K=5": [
+     1,
+     2,
+     3,
+     72,
+     144
+    ]
+   },
+   "serie": "b132db9af72ea54b",
+   "prevision": "retards_devant"
+  }
+ }
+}

@@ -1,0 +1,185 @@
+{
+ "proto": "reel_v4",
+ "date": "2026-11-04 17:27:48",
+ "gain_seuil": 0.95,
+ "p_iacob": 40,
+ "regle_principale": "recette bat l'ESN à fuite (moyenne plus basse, Wilcoxon p<0.05) si val(P*)/val({0,1,2}) <= 0.95",
+ "regle_iacob": "recette bat Iacob-Dambre (moyenne plus basse, p<0.05) si P* > 40 et rapport <= 0.95, sinon pas de victoire",
+ "secondaire": "Iacob-Dambre + CMA-ES fait mieux qu'Iacob-Dambre à positions au hasard (p<0.05) sur au moins 4 séries sur 6",
+ "taches": {
+  "pekin_pm25_h24": {
+   "P_etoile": 40,
+   "val_P": 1.0124120159627503,
+   "val_012": 1.0203328811814654,
+   "rapport": 0.9922369793576158,
+   "S": {
+    "sauts K=2": [
+     1,
+     40
+    ],
+    "sauts K=3": [
+     1,
+     40,
+     80
+    ],
+    "sauts K=5": [
+     1,
+     2,
+     40,
+     80,
+     120
+    ]
+   },
+   "longueur": 12000,
+   "test": 2400,
+   "serie": "dce06db82b599001",
+   "prevision": "pas_de_victoire_prevue",
+   "prevision_iacob": "pas_de_victoire_prevue"
+  },
+  "pekin_T_h24": {
+   "P_etoile": 96,
+   "val_P": 0.5173838909785343,
+   "val_012": 0.5919210453410728,
+   "rapport": 0.874075850235078,
+   "S": {
+    "sauts K=2": [
+     1,
+     96
+    ],
+    "sauts K=3": [
+     1,
+     2,
+     96
+    ],
+    "sauts K=5": [
+     1,
+     2,
+     3,
+     96,
+     192
+    ]
+   },
+   "longueur": 12000,
+   "test": 2400,
+   "serie": "e009c2433bedcde2",
+   "prevision": "retards_devant",
+   "prevision_iacob": "recette_devant"
+  },
+  "pekin_pression_h24": {
+   "P_etoile": 6,
+   "val_P": 0.5039059001601311,
+   "val_012": 0.5715788615826202,
+   "rapport": 0.8816034567214185,
+   "S": {
+    "sauts K=2": [
+     1,
+     12
+    ],
+    "sauts K=3": [
+     1,
+     6,
+     36
+    ],
+    "sauts K=5": [
+     1,
+     6,
+     36,
+     60,
+     78
+    ]
+   },
+   "longueur": 12000,
+   "test": 2400,
+   "serie": "a823ec63c4c83c07",
+   "prevision": "retards_devant",
+   "prevision_iacob": "pas_de_victoire_prevue"
+  },
+  "taxi_h24": {
+   "P_etoile": 2,
+   "val_P": 0.3381233665502474,
+   "val_012": 0.5883339660209774,
+   "rapport": 0.5747133194383535,
+   "S": {
+    "sauts K=2": [
+     1,
+     14
+    ],
+    "sauts K=3": [
+     1,
+     10,
+     34
+    ],
+    "sauts K=5": [
+     1,
+     8,
+     10,
+     34,
+     40
+    ]
+   },
+   "longueur": 5136,
+   "test": 1027,
+   "serie": "4badcebad9289dbf",
+   "prevision": "retards_devant",
+   "prevision_iacob": "pas_de_victoire_prevue"
+  },
+  "pjm_charge_h24": {
+   "P_etoile": 24,
+   "val_P": 0.5998470220366765,
+   "val_012": 0.6655816761600795,
+   "rapport": 0.901237283900837,
+   "S": {
+    "sauts K=2": [
+     1,
+     24
+    ],
+    "sauts K=3": [
+     1,
+     24,
+     72
+    ],
+    "sauts K=5": [
+     1,
+     2,
+     24,
+     72,
+     96
+    ]
+   },
+   "longueur": 12000,
+   "test": 2400,
+   "serie": "4709081a4d8aeda0",
+   "prevision": "retards_devant",
+   "prevision_iacob": "pas_de_victoire_prevue"
+  },
+  "change_h24": {
+   "P_etoile": 100,
+   "val_P": 0.42701962537751653,
+   "val_012": 0.4236387073968718,
+   "rapport": 1.007980663526757,
+   "S": {
+    "sauts K=2": [
+     1,
+     100
+    ],
+    "sauts K=3": [
+     1,
+     2,
+     100
+    ],
+    "sauts K=5": [
+     1,
+     2,
+     3,
+     100,
+     200
+    ]
+   },
+   "longueur": 7564,
+   "test": 1512,
+   "serie": "b4a3a74c53c4a123",
+   "prevision": "pas_de_victoire_prevue",
+   "prevision_iacob": "pas_de_victoire_prevue"
+  }
+ }
+}
