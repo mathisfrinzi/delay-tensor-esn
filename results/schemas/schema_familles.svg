@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1094.4pt" height="475.2pt" viewBox="0 0 1094.4 475.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-05T22:50:07.200698</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 475.2 
+L 1094.4 475.2 
+L 1094.4 0 
+L 0 0 
+z
+" style="fill: #fcfcfb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 7.2 468 
+L 1087.2 468 
+L 1087.2 7.2 
+L 7.2 7.2 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 26.28 241.853538 
+L 268.92 241.853538 
+Q 274.32 241.853538 274.32 236.536615 
+L 274.32 61.432615 
+Q 274.32 56.115692 268.92 56.115692 
+L 26.28 56.115692 
+Q 20.88 56.115692 20.88 61.432615 
+L 20.88 236.536615 
+Q 20.88 241.853538 26.28 241.853538 
+z
+" clip-path="url(#paace593773)" style="fill: #dbe8f8; stroke: #2a78d6; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 292.68 241.853538 
+L 535.32 241.853538 
+Q 540.72 241.853538 540.72 236.536615 
+L 540.72 61.432615 
+Q 540.72 56.115692 535.32 56.115692 
+L 292.68 56.115692 
+Q 287.28 56.115692 287.28 61.432615 
+L 287.28 236.536615 
+Q 287.28 241.853538 292.68 241.853538 
+z
+" clip-path="url(#paace593773)" style="fill: #fbe1d5; stroke: #eb6834; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 559.08 241.853538 
+L 801.72 241.853538 
+Q 807.12 241.853538 807.12 236.536615 
+L 807.12 61.432615 
+Q 807.12 56.115692 801.72 56.115692 
+L 559.08 56.115692 
+Q 553.68 56.115692 553.68 61.432615 
+L 553.68 236.536615 
+Q 553.68 241.853538 559.08 241.853538 
+z
+" clip-path="url(#paace593773)" style="fill: #ece4f7; stroke: #9b6bd6; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 825.48 241.853538 
+L 1068.12 241.853538 
+Q 1073.52 241.853538 1073.52 236.536615 
+L 1073.52 61.432615 
+Q 1073.52 56.115692 1068.12 56.115692 
+L 825.48 56.115692 
+Q 820.08 56.115692 820.08 61.432615 
+L 820.08 236.536615 
+Q 820.08 241.853538 825.48 241.853538 
+z
+" clip-path="url(#paace593773)" style="fill: #d6f0e5; stroke: #1baf7a; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 26.28 450.985846 
+L 268.92 450.985846 
+Q 274.32 450.985846 274.32 445.668923 
+L 274.32 270.564923 
+Q 274.32 265.248 268.92 265.248 
+L 26.28 265.248 
+Q 20.88 265.248 20.88 270.564923 
+L 20.88 445.668923 
+Q 20.88 450.985846 26.28 450.985846 
+z
+" clip-path="url(#paace593773)" style="fill: #d6f0e5; stroke: #1baf7a; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 292.68 450.985846 
+L 535.32 450.985846 
+Q 540.72 450.985846 540.72 445.668923 
+L 540.72 270.564923 
+Q 540.72 265.248 535.32 265.248 
+L 292.68 265.248 
+Q 287.28 265.248 287.28 270.564923 
+L 287.28 445.668923 
+Q 287.28 450.985846 292.68 450.985846 
+z
+" clip-path="url(#paace593773)" style="fill: #ecebe6; stroke: #52514e; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 559.08 450.985846 
+L 801.72 450.985846 
+Q 807.12 450.985846 807.12 445.668923 
+L 807.12 270.564923 
+Q 807.12 265.248 801.72 265.248 
+L 559.08 265.248 
+Q 553.68 265.248 553.68 270.564923 
+L 553.68 445.668923 
+Q 553.68 450.985846 559.08 450.985846 
+z
+" clip-path="url(#paace593773)" style="fill: #ecebe6; stroke: #52514e; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 825.48 450.985846 
+L 1068.12 450.985846 
+Q 1073.52 450.985846 1073.52 445.668923 
+L 1073.52 270.564923 
+Q 1073.52 265.248 1068.12 265.248 
+L 825.48 265.248 
+Q 820.08 265.248 820.08 270.564923 
+L 820.08 445.668923 
+Q 820.08 450.985846 825.48 450.985846 
+z
+" clip-path="url(#paace593773)" style="fill: #ecebe6; stroke: #52514e; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #0b0b0b" x="21.6" y="30.24" transform="rotate(-0 21.6 30.24)">Où mettre un retard : les familles comparées au même budget et au même réglage</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #0b0b0b" x="32.4" y="82.462885" transform="rotate(-0 32.4 82.462885)">recette (ce travail)</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 9.2px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; fill: #0b0b0b" transform="translate(32.4 135.265944)">x(t) lit x(t − τ), τ ∈ S calculé,</text>
+    <text style="font-size: 9.2px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; fill: #0b0b0b" transform="translate(32.4 151.779405)">une matrice aléatoire par retard</text>
+    <text style="font-size: 9.2px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; fill: #0b0b0b" transform="translate(32.4 168.528616)">(+ un terme produit si le spectre le dit)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-style: italic; font-size: 8.6px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #2a78d6" x="32.4" y="226.664047" transform="rotate(-0 32.4 226.664047)">S calculé sur les données, sans réservoir</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #0b0b0b" x="298.8" y="82.462885" transform="rotate(-0 298.8 82.462885)">Iacob et Dambre (2024)</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 9.2px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; fill: #0b0b0b" transform="translate(298.8 135.081944)">chaque connexion j → i a son délai,</text>
+    <text style="font-size: 9.2px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; fill: #0b0b0b" transform="translate(298.8 152.564999)">proportionnel à la distance ‖p_i − p_j‖</text>
+    <text style="font-size: 9.2px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; fill: #0b0b0b" transform="translate(298.8 168.476866)">entre neurones placés dans le plan</text>
+   </g>
+   <g id="text_7">
+    <text style="font-style: italic; font-size: 8.6px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #eb6834" x="298.8" y="226.664047" transform="rotate(-0 298.8 226.664047)">positions au hasard, ou optimisées par CMA-ES</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #0b0b0b" x="565.2" y="82.462885" transform="rotate(-0 565.2 82.462885)">A, B, C : les mélanges</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9.2px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; fill: #0b0b0b" transform="translate(565.2 135.214194)">A : leur matrice, délais tirés dans S</text>
+    <text style="font-size: 9.2px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; fill: #0b0b0b" transform="translate(565.2 151.779405)">B : leurs délais près, sauts de S loin</text>
+    <text style="font-size: 9.2px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; fill: #0b0b0b" transform="translate(565.2 168.476866)">C : leurs délais, portée = max S</text>
+   </g>
+   <g id="text_10">
+    <text style="font-style: italic; font-size: 8.6px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #9b6bd6" x="565.2" y="226.664047" transform="rotate(-0 565.2 226.664047)">chaque mélange teste une moitié de l'idée</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #0b0b0b" x="831.6" y="82.462885" transform="rotate(-0 831.6 82.462885)">lecture retardée (Holzmann et Hauser, 2010)</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9.2px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; fill: #0b0b0b" transform="translate(831.6 135.038819)">ESN ordinaire ; la lecture reçoit</text>
+    <text style="font-size: 9.2px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; fill: #0b0b0b" transform="translate(831.6 151.831155)">[x(t), x(t − τ)] pour τ ∈ S calculé</text>
+   </g>
+   <g id="text_13">
+    <text style="font-style: italic; font-size: 8.6px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #1baf7a" x="831.6" y="226.664047" transform="rotate(-0 831.6 226.664047)">le retard est dans la lecture, pas dans l'état</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #0b0b0b" x="32.4" y="291.595192" transform="rotate(-0 32.4 291.595192)">ESN + entrées retardées</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9.2px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; fill: #0b0b0b" transform="translate(32.4 344.214252)">ESN ordinaire ; l'entrée reçoit</text>
+    <text style="font-size: 9.2px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; fill: #0b0b0b" transform="translate(32.4 360.963463)">[u(t), u(t − τ)] pour τ ∈ S calculé</text>
+   </g>
+   <g id="text_16">
+    <text style="font-style: italic; font-size: 8.6px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #1baf7a" x="32.4" y="435.796355" transform="rotate(-0 32.4 435.796355)">le retard est dans l'entrée</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #0b0b0b" x="298.8" y="291.595192" transform="rotate(-0 298.8 291.595192)">self-ESN (Xu et al., 2024)</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9.2px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; fill: #0b0b0b" transform="translate(298.8 344.476596)">x(t) lit x(t − 1) par W</text>
+    <text style="font-size: 9.2px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; fill: #0b0b0b" transform="translate(298.8 360.963463)">et x(t − m) par γ·I</text>
+   </g>
+   <g id="text_19">
+    <text style="font-style: italic; font-size: 8.6px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #52514e" x="298.8" y="435.796355" transform="rotate(-0 298.8 435.796355)">un seul retard, une seule copie de l'état</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; fill: #0b0b0b" transform="translate(565.2 291.595192)">cycle (Rodan et Tiňo, 2011)</text>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; fill: #0b0b0b" transform="translate(565.2 303.694802)">et orthogonal</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 9.2px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; fill: #0b0b0b" transform="translate(565.2 344.266002)">W = r·(permutation circulaire)</text>
+    <text style="font-size: 9.2px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; fill: #0b0b0b" transform="translate(565.2 360.749994)">ou W = ρ·Q, Q orthogonale</text>
+   </g>
+   <g id="text_22">
+    <text style="font-style: italic; font-size: 8.6px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #52514e" x="565.2" y="435.796355" transform="rotate(-0 565.2 435.796355)">un seul retard, une matrice structurée</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #0b0b0b" x="831.6" y="291.595192" transform="rotate(-0 831.6 291.595192)">ESN à fuite, DTS-ESN</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 9.2px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; fill: #0b0b0b" transform="translate(831.6 344.788533)">x(t) = (1 − a)·x(t − 1) + a·tanh(…)</text>
+    <text style="font-size: 9.2px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; fill: #0b0b0b" transform="translate(831.6 360.916026)">DTS-ESN : une fuite par neurone</text>
+   </g>
+   <g id="text_25">
+    <text style="font-style: italic; font-size: 8.6px; font-family: 'Inter', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #52514e" x="831.6" y="435.796355" transform="rotate(-0 831.6 435.796355)">la mémoire vient de la lenteur, pas d'un retard</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="paace593773">
+   <rect x="7.2" y="7.2" width="1080" height="460.8"/>
+  </clipPath>
+ </defs>
+</svg>
