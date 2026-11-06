@@ -1,1 +1,29 @@
+name: tests
 
+# Ce dossier est la racine du dépôt delay-tensor-esn.
+on:
+  push:
+  pull_request:
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Installer
+        run: pip install -r requirements.txt pytest
+      - name: Tests (version réduite, ESSAI=1)
+        run: pytest -q
+      - name: Schémas et figures, relus depuis results/
+        env:
+          MPLBACKEND: Agg
+        run: |
+          python src/schemas.py
+          python src/plot_iacob.py
+          python src/plot_figures.py
